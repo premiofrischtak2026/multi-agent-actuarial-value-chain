@@ -1,0 +1,5002 @@
+[
+  {
+    "booking_id": "BK-201804-00000",
+    "flight_date": "2018-04-21",
+    "origin_icao": "SBMO",
+    "dest_icao": "SBRP",
+    "ticket_value_brl": 452.52,
+    "accommodation_value_brl": 438.78,
+    "excursion_value_brl": 89.28,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "RIBEIRÃO PRETO",
+      "start": "2018-04-21",
+      "end": "2018-04-23"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2018,
+    "month": 4,
+    "rota": "SBMO→SBRP"
+  },
+  {
+    "booking_id": "BK-202212-00001",
+    "flight_date": "2022-12-24",
+    "origin_icao": "SBUR",
+    "dest_icao": "SBUL",
+    "ticket_value_brl": 1821.07,
+    "accommodation_value_brl": 1086.79,
+    "excursion_value_brl": 34.78,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "UBERLÂNDIA",
+      "start": "2022-12-24",
+      "end": "2022-12-26"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": true
+    },
+    "year": 2022,
+    "month": 12,
+    "rota": "SBUR→SBUL"
+  },
+  {
+    "booking_id": "BK-202110-00002",
+    "flight_date": "2021-10-14",
+    "origin_icao": "SBKP",
+    "dest_icao": "SBBE",
+    "ticket_value_brl": 462.57,
+    "accommodation_value_brl": 379.57,
+    "excursion_value_brl": 202.14,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "BELÉM",
+      "start": "2021-10-14",
+      "end": "2021-10-16"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 10,
+    "rota": "SBKP→SBBE"
+  },
+  {
+    "booking_id": "BK-202412-00003",
+    "flight_date": "2024-12-01",
+    "origin_icao": "SBSP",
+    "dest_icao": "SBMG",
+    "ticket_value_brl": 1903.64,
+    "accommodation_value_brl": 886.39,
+    "excursion_value_brl": 167.81,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "MARINGÁ",
+      "start": "2024-12-01",
+      "end": "2024-12-04"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": true
+    },
+    "year": 2024,
+    "month": 12,
+    "rota": "SBSP→SBMG"
+  },
+  {
+    "booking_id": "BK-202505-00004",
+    "flight_date": "2025-05-15",
+    "origin_icao": "SBUL",
+    "dest_icao": "SBMO",
+    "ticket_value_brl": 2099.8,
+    "accommodation_value_brl": 156.82,
+    "excursion_value_brl": 322.33,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "RIO LARGO",
+      "start": "2025-05-15",
+      "end": "2025-05-19"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 5,
+    "rota": "SBUL→SBMO"
+  },
+  {
+    "booking_id": "BK-202211-00005",
+    "flight_date": "2022-11-23",
+    "origin_icao": "SBPA",
+    "dest_icao": "SBCF",
+    "ticket_value_brl": 1114.53,
+    "accommodation_value_brl": 313.25,
+    "excursion_value_brl": 382.89,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "CONFINS",
+      "start": "2022-11-23",
+      "end": "2022-11-28"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2022,
+    "month": 11,
+    "rota": "SBPA→SBCF"
+  },
+  {
+    "booking_id": "BK-201911-00006",
+    "flight_date": "2019-11-11",
+    "origin_icao": "SBAR",
+    "dest_icao": "SBBR",
+    "ticket_value_brl": 594.77,
+    "accommodation_value_brl": 251.55,
+    "excursion_value_brl": 339.0,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "BRASÍLIA",
+      "start": "2019-11-11",
+      "end": "2019-11-13"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": true
+    },
+    "year": 2019,
+    "month": 11,
+    "rota": "SBAR→SBBR"
+  },
+  {
+    "booking_id": "BK-202508-00007",
+    "flight_date": "2025-08-20",
+    "origin_icao": "SBBR",
+    "dest_icao": "SBAR",
+    "ticket_value_brl": 2094.97,
+    "accommodation_value_brl": 916.22,
+    "excursion_value_brl": 214.49,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "ARACAJU",
+      "start": "2025-08-20",
+      "end": "2025-08-24"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 8,
+    "rota": "SBBR→SBAR"
+  },
+  {
+    "booking_id": "BK-202112-00008",
+    "flight_date": "2021-12-13",
+    "origin_icao": "SBPA",
+    "dest_icao": "SBSV",
+    "ticket_value_brl": 1559.29,
+    "accommodation_value_brl": 1020.87,
+    "excursion_value_brl": 247.41,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "SALVADOR",
+      "start": "2021-12-13",
+      "end": "2021-12-15"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 12,
+    "rota": "SBPA→SBSV"
+  },
+  {
+    "booking_id": "BK-202401-00009",
+    "flight_date": "2024-01-28",
+    "origin_icao": "SBGR",
+    "dest_icao": "SBSV",
+    "ticket_value_brl": 1612.44,
+    "accommodation_value_brl": 889.8,
+    "excursion_value_brl": 18.33,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "SALVADOR",
+      "start": "2024-01-28",
+      "end": "2024-02-01"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2024,
+    "month": 1,
+    "rota": "SBGR→SBSV"
+  },
+  {
+    "booking_id": "BK-201812-00010",
+    "flight_date": "2018-12-08",
+    "origin_icao": "SBSV",
+    "dest_icao": "SBBR",
+    "ticket_value_brl": 2468.97,
+    "accommodation_value_brl": 1048.08,
+    "excursion_value_brl": 346.59,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "BRASÍLIA",
+      "start": "2018-12-08",
+      "end": "2018-12-12"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2018,
+    "month": 12,
+    "rota": "SBSV→SBBR"
+  },
+  {
+    "booking_id": "BK-202308-00011",
+    "flight_date": "2023-08-13",
+    "origin_icao": "SBGL",
+    "dest_icao": "SBFI",
+    "ticket_value_brl": 1352.16,
+    "accommodation_value_brl": 1025.82,
+    "excursion_value_brl": 65.06,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "FOZ DO IGUAÇU",
+      "start": "2023-08-13",
+      "end": "2023-08-17"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2023,
+    "month": 8,
+    "rota": "SBGL→SBFI"
+  },
+  {
+    "booking_id": "BK-202202-00012",
+    "flight_date": "2022-02-12",
+    "origin_icao": "SBBE",
+    "dest_icao": "SBMQ",
+    "ticket_value_brl": 1807.37,
+    "accommodation_value_brl": 886.91,
+    "excursion_value_brl": 273.42,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "MACAPÁ",
+      "start": "2022-02-12",
+      "end": "2022-02-15"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2022,
+    "month": 2,
+    "rota": "SBBE→SBMQ"
+  },
+  {
+    "booking_id": "BK-201907-00013",
+    "flight_date": "2019-07-03",
+    "origin_icao": "SBUA",
+    "dest_icao": "SBEG",
+    "ticket_value_brl": 1521.69,
+    "accommodation_value_brl": 407.05,
+    "excursion_value_brl": 184.9,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "MANAUS",
+      "start": "2019-07-03",
+      "end": "2019-07-06"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2019,
+    "month": 7,
+    "rota": "SBUA→SBEG"
+  },
+  {
+    "booking_id": "BK-202212-00014",
+    "flight_date": "2022-12-09",
+    "origin_icao": "SBRF",
+    "dest_icao": "SBGO",
+    "ticket_value_brl": 1837.69,
+    "accommodation_value_brl": 1034.99,
+    "excursion_value_brl": 310.4,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "GOIÂNIA",
+      "start": "2022-12-09",
+      "end": "2022-12-12"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": true
+    },
+    "year": 2022,
+    "month": 12,
+    "rota": "SBRF→SBGO"
+  },
+  {
+    "booking_id": "BK-201705-00015",
+    "flight_date": "2017-05-08",
+    "origin_icao": "SBPJ",
+    "dest_icao": "SBPJ",
+    "ticket_value_brl": 2090.6,
+    "accommodation_value_brl": 571.22,
+    "excursion_value_brl": 26.48,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "PALMAS",
+      "start": "2017-05-08",
+      "end": "2017-05-10"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2017,
+    "month": 5,
+    "rota": "SBPJ→SBPJ"
+  },
+  {
+    "booking_id": "BK-201712-00016",
+    "flight_date": "2017-12-19",
+    "origin_icao": "SBFL",
+    "dest_icao": "SBBR",
+    "ticket_value_brl": 846.52,
+    "accommodation_value_brl": 674.19,
+    "excursion_value_brl": 353.87,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "BRASÍLIA",
+      "start": "2017-12-19",
+      "end": "2017-12-23"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2017,
+    "month": 12,
+    "rota": "SBFL→SBBR"
+  },
+  {
+    "booking_id": "BK-202403-00017",
+    "flight_date": "2024-03-21",
+    "origin_icao": "SBMO",
+    "dest_icao": "SBGO",
+    "ticket_value_brl": 700.03,
+    "accommodation_value_brl": 296.61,
+    "excursion_value_brl": 298.0,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "GOIÂNIA",
+      "start": "2024-03-21",
+      "end": "2024-03-26"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2024,
+    "month": 3,
+    "rota": "SBMO→SBGO"
+  },
+  {
+    "booking_id": "BK-202112-00018",
+    "flight_date": "2021-12-18",
+    "origin_icao": "SBCT",
+    "dest_icao": "SBMO",
+    "ticket_value_brl": 1968.73,
+    "accommodation_value_brl": 599.86,
+    "excursion_value_brl": 233.41,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "RIO LARGO",
+      "start": "2021-12-18",
+      "end": "2021-12-22"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 12,
+    "rota": "SBCT→SBMO"
+  },
+  {
+    "booking_id": "BK-201809-00019",
+    "flight_date": "2018-09-12",
+    "origin_icao": "SBGO",
+    "dest_icao": "SBCY",
+    "ticket_value_brl": 2494.38,
+    "accommodation_value_brl": 295.25,
+    "excursion_value_brl": 197.41,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "VÁRZEA GRANDE",
+      "start": "2018-09-12",
+      "end": "2018-09-15"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2018,
+    "month": 9,
+    "rota": "SBGO→SBCY"
+  },
+  {
+    "booking_id": "BK-201902-00020",
+    "flight_date": "2019-02-25",
+    "origin_icao": "SBKP",
+    "dest_icao": "SBMG",
+    "ticket_value_brl": 2208.32,
+    "accommodation_value_brl": 310.48,
+    "excursion_value_brl": 63.99,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "MARINGÁ",
+      "start": "2019-02-25",
+      "end": "2019-02-27"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2019,
+    "month": 2,
+    "rota": "SBKP→SBMG"
+  },
+  {
+    "booking_id": "BK-202001-00021",
+    "flight_date": "2020-01-22",
+    "origin_icao": "SBMG",
+    "dest_icao": "SBBH",
+    "ticket_value_brl": 1652.46,
+    "accommodation_value_brl": 554.01,
+    "excursion_value_brl": 238.36,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "BELO HORIZONTE",
+      "start": "2020-01-22",
+      "end": "2020-01-27"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": true
+    },
+    "year": 2020,
+    "month": 1,
+    "rota": "SBMG→SBBH"
+  },
+  {
+    "booking_id": "BK-202105-00022",
+    "flight_date": "2021-05-15",
+    "origin_icao": "SBCJ",
+    "dest_icao": "SBBE",
+    "ticket_value_brl": 2439.26,
+    "accommodation_value_brl": 1053.82,
+    "excursion_value_brl": 4.59,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "BELÉM",
+      "start": "2021-05-15",
+      "end": "2021-05-19"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 5,
+    "rota": "SBCJ→SBBE"
+  },
+  {
+    "booking_id": "BK-202109-00023",
+    "flight_date": "2021-09-24",
+    "origin_icao": "SBCP",
+    "dest_icao": "SBRJ",
+    "ticket_value_brl": 1831.59,
+    "accommodation_value_brl": 713.82,
+    "excursion_value_brl": 106.73,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "RIO DE JANEIRO",
+      "start": "2021-09-24",
+      "end": "2021-09-26"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 9,
+    "rota": "SBCP→SBRJ"
+  },
+  {
+    "booking_id": "BK-202409-00024",
+    "flight_date": "2024-09-21",
+    "origin_icao": "SBKP",
+    "dest_icao": "SBPJ",
+    "ticket_value_brl": 634.26,
+    "accommodation_value_brl": 606.5,
+    "excursion_value_brl": 181.49,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "PALMAS",
+      "start": "2024-09-21",
+      "end": "2024-09-25"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2024,
+    "month": 9,
+    "rota": "SBKP→SBPJ"
+  },
+  {
+    "booking_id": "BK-201803-00025",
+    "flight_date": "2018-03-24",
+    "origin_icao": "SBUL",
+    "dest_icao": "SBBR",
+    "ticket_value_brl": 2440.97,
+    "accommodation_value_brl": 950.06,
+    "excursion_value_brl": 203.07,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "BRASÍLIA",
+      "start": "2018-03-24",
+      "end": "2018-03-28"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": true
+    },
+    "year": 2018,
+    "month": 3,
+    "rota": "SBUL→SBBR"
+  },
+  {
+    "booking_id": "BK-202203-00026",
+    "flight_date": "2022-03-04",
+    "origin_icao": "SBMO",
+    "dest_icao": "SBFZ",
+    "ticket_value_brl": 2167.51,
+    "accommodation_value_brl": 683.05,
+    "excursion_value_brl": 79.56,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "FORTALEZA",
+      "start": "2022-03-04",
+      "end": "2022-03-08"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": true
+    },
+    "year": 2022,
+    "month": 3,
+    "rota": "SBMO→SBFZ"
+  },
+  {
+    "booking_id": "BK-202509-00027",
+    "flight_date": "2025-09-12",
+    "origin_icao": "SBBR",
+    "dest_icao": "SBCG",
+    "ticket_value_brl": 1532.7,
+    "accommodation_value_brl": 967.56,
+    "excursion_value_brl": 212.14,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "CAMPO GRANDE",
+      "start": "2025-09-12",
+      "end": "2025-09-15"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 9,
+    "rota": "SBBR→SBCG"
+  },
+  {
+    "booking_id": "BK-202502-00028",
+    "flight_date": "2025-02-01",
+    "origin_icao": "SBPA",
+    "dest_icao": "SBGL",
+    "ticket_value_brl": 1426.07,
+    "accommodation_value_brl": 267.46,
+    "excursion_value_brl": 145.19,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "RIO DE JANEIRO",
+      "start": "2025-02-01",
+      "end": "2025-02-05"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 2,
+    "rota": "SBPA→SBGL"
+  },
+  {
+    "booking_id": "BK-202212-00029",
+    "flight_date": "2022-12-27",
+    "origin_icao": "SBIZ",
+    "dest_icao": "SBIZ",
+    "ticket_value_brl": 902.85,
+    "accommodation_value_brl": 402.92,
+    "excursion_value_brl": 226.94,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "IMPERATRIZ",
+      "start": "2022-12-27",
+      "end": "2022-12-31"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2022,
+    "month": 12,
+    "rota": "SBIZ→SBIZ"
+  },
+  {
+    "booking_id": "BK-201605-00030",
+    "flight_date": "2016-05-03",
+    "origin_icao": "SBDN",
+    "dest_icao": "SBPS",
+    "ticket_value_brl": 1937.01,
+    "accommodation_value_brl": 1006.82,
+    "excursion_value_brl": 391.19,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "PORTO SEGURO",
+      "start": "2016-05-03",
+      "end": "2016-05-05"
+    },
+    "outcome": {
+      "cancelled": true,
+      "rain_trigger_10mm": false
+    },
+    "year": 2016,
+    "month": 5,
+    "rota": "SBDN→SBPS"
+  },
+  {
+    "booking_id": "BK-202106-00031",
+    "flight_date": "2021-06-18",
+    "origin_icao": "SBMQ",
+    "dest_icao": "SBBR",
+    "ticket_value_brl": 669.62,
+    "accommodation_value_brl": 649.05,
+    "excursion_value_brl": 219.92,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "BRASÍLIA",
+      "start": "2021-06-18",
+      "end": "2021-06-21"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 6,
+    "rota": "SBMQ→SBBR"
+  },
+  {
+    "booking_id": "BK-202512-00032",
+    "flight_date": "2025-12-09",
+    "origin_icao": "SBSJ",
+    "dest_icao": "SBKP",
+    "ticket_value_brl": 2425.16,
+    "accommodation_value_brl": 1125.36,
+    "excursion_value_brl": 302.11,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "CAMPINAS",
+      "start": "2025-12-09",
+      "end": "2025-12-14"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 12,
+    "rota": "SBSJ→SBKP"
+  },
+  {
+    "booking_id": "BK-202311-00033",
+    "flight_date": "2023-11-23",
+    "origin_icao": "SBCG",
+    "dest_icao": "SBCG",
+    "ticket_value_brl": 1897.19,
+    "accommodation_value_brl": 568.94,
+    "excursion_value_brl": 268.67,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "CAMPO GRANDE",
+      "start": "2023-11-23",
+      "end": "2023-11-26"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2023,
+    "month": 11,
+    "rota": "SBCG→SBCG"
+  },
+  {
+    "booking_id": "BK-202004-00034",
+    "flight_date": "2020-04-12",
+    "origin_icao": "SBGR",
+    "dest_icao": "SBVT",
+    "ticket_value_brl": 2289.19,
+    "accommodation_value_brl": 624.06,
+    "excursion_value_brl": 99.16,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "VITÓRIA",
+      "start": "2020-04-12",
+      "end": "2020-04-17"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2020,
+    "month": 4,
+    "rota": "SBGR→SBVT"
+  },
+  {
+    "booking_id": "BK-202502-00035",
+    "flight_date": "2025-02-03",
+    "origin_icao": "SBBR",
+    "dest_icao": "SBJP",
+    "ticket_value_brl": 444.17,
+    "accommodation_value_brl": 731.62,
+    "excursion_value_brl": 235.38,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "SANTA RITA",
+      "start": "2025-02-03",
+      "end": "2025-02-07"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 2,
+    "rota": "SBBR→SBJP"
+  },
+  {
+    "booking_id": "BK-202004-00036",
+    "flight_date": "2020-04-01",
+    "origin_icao": "SBGR",
+    "dest_icao": "SBLO",
+    "ticket_value_brl": 1886.47,
+    "accommodation_value_brl": 211.82,
+    "excursion_value_brl": 26.96,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "LONDRINA",
+      "start": "2020-04-01",
+      "end": "2020-04-03"
+    },
+    "outcome": {
+      "cancelled": true,
+      "rain_trigger_10mm": false
+    },
+    "year": 2020,
+    "month": 4,
+    "rota": "SBGR→SBLO"
+  },
+  {
+    "booking_id": "BK-202205-00037",
+    "flight_date": "2022-05-02",
+    "origin_icao": "SBCF",
+    "dest_icao": "SBPA",
+    "ticket_value_brl": 548.8,
+    "accommodation_value_brl": 399.9,
+    "excursion_value_brl": 267.59,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "PORTO ALEGRE",
+      "start": "2022-05-02",
+      "end": "2022-05-06"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2022,
+    "month": 5,
+    "rota": "SBCF→SBPA"
+  },
+  {
+    "booking_id": "BK-201609-00038",
+    "flight_date": "2016-09-07",
+    "origin_icao": "SBPS",
+    "dest_icao": "SBBR",
+    "ticket_value_brl": 1919.04,
+    "accommodation_value_brl": 1076.5,
+    "excursion_value_brl": 230.48,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "BRASÍLIA",
+      "start": "2016-09-07",
+      "end": "2016-09-10"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2016,
+    "month": 9,
+    "rota": "SBPS→SBBR"
+  },
+  {
+    "booking_id": "BK-201905-00039",
+    "flight_date": "2019-05-08",
+    "origin_icao": "SBFE",
+    "dest_icao": "SBSV",
+    "ticket_value_brl": 2095.74,
+    "accommodation_value_brl": 349.93,
+    "excursion_value_brl": 38.77,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "SALVADOR",
+      "start": "2019-05-08",
+      "end": "2019-05-13"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2019,
+    "month": 5,
+    "rota": "SBFE→SBSV"
+  },
+  {
+    "booking_id": "BK-201802-00040",
+    "flight_date": "2018-02-14",
+    "origin_icao": "SBGO",
+    "dest_icao": "SBCY",
+    "ticket_value_brl": 1289.52,
+    "accommodation_value_brl": 640.38,
+    "excursion_value_brl": 291.63,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "VÁRZEA GRANDE",
+      "start": "2018-02-14",
+      "end": "2018-02-18"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2018,
+    "month": 2,
+    "rota": "SBGO→SBCY"
+  },
+  {
+    "booking_id": "BK-201712-00041",
+    "flight_date": "2017-12-22",
+    "origin_icao": "SBKP",
+    "dest_icao": "SBPL",
+    "ticket_value_brl": 527.29,
+    "accommodation_value_brl": 914.62,
+    "excursion_value_brl": 320.24,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "PETROLINA",
+      "start": "2017-12-22",
+      "end": "2017-12-24"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2017,
+    "month": 12,
+    "rota": "SBKP→SBPL"
+  },
+  {
+    "booking_id": "BK-202307-00042",
+    "flight_date": "2023-07-04",
+    "origin_icao": "SBFZ",
+    "dest_icao": "SBKG",
+    "ticket_value_brl": 802.34,
+    "accommodation_value_brl": 713.1,
+    "excursion_value_brl": 56.07,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "CAMPINA GRANDE",
+      "start": "2023-07-04",
+      "end": "2023-07-07"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2023,
+    "month": 7,
+    "rota": "SBFZ→SBKG"
+  },
+  {
+    "booking_id": "BK-202302-00043",
+    "flight_date": "2023-02-06",
+    "origin_icao": "SBSP",
+    "dest_icao": "SBFI",
+    "ticket_value_brl": 1371.52,
+    "accommodation_value_brl": 1068.21,
+    "excursion_value_brl": 30.15,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "FOZ DO IGUAÇU",
+      "start": "2023-02-06",
+      "end": "2023-02-10"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2023,
+    "month": 2,
+    "rota": "SBSP→SBFI"
+  },
+  {
+    "booking_id": "BK-202308-00044",
+    "flight_date": "2023-08-26",
+    "origin_icao": "SBBR",
+    "dest_icao": "SBSL",
+    "ticket_value_brl": 506.24,
+    "accommodation_value_brl": 1199.25,
+    "excursion_value_brl": 334.41,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "SÃO LUÍS",
+      "start": "2023-08-26",
+      "end": "2023-08-28"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2023,
+    "month": 8,
+    "rota": "SBBR→SBSL"
+  },
+  {
+    "booking_id": "BK-202408-00045",
+    "flight_date": "2024-08-03",
+    "origin_icao": "SBCY",
+    "dest_icao": "SBBR",
+    "ticket_value_brl": 749.25,
+    "accommodation_value_brl": 659.92,
+    "excursion_value_brl": 85.5,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "BRASÍLIA",
+      "start": "2024-08-03",
+      "end": "2024-08-06"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2024,
+    "month": 8,
+    "rota": "SBCY→SBBR"
+  },
+  {
+    "booking_id": "BK-202306-00046",
+    "flight_date": "2023-06-13",
+    "origin_icao": "SBPS",
+    "dest_icao": "SBSV",
+    "ticket_value_brl": 745.74,
+    "accommodation_value_brl": 152.26,
+    "excursion_value_brl": 156.17,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "SALVADOR",
+      "start": "2023-06-13",
+      "end": "2023-06-15"
+    },
+    "outcome": {
+      "cancelled": true,
+      "rain_trigger_10mm": false
+    },
+    "year": 2023,
+    "month": 6,
+    "rota": "SBPS→SBSV"
+  },
+  {
+    "booking_id": "BK-202507-00047",
+    "flight_date": "2025-07-26",
+    "origin_icao": "SBMO",
+    "dest_icao": "SBKP",
+    "ticket_value_brl": 999.02,
+    "accommodation_value_brl": 881.42,
+    "excursion_value_brl": 292.2,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "CAMPINAS",
+      "start": "2025-07-26",
+      "end": "2025-07-31"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 7,
+    "rota": "SBMO→SBKP"
+  },
+  {
+    "booking_id": "BK-201801-00048",
+    "flight_date": "2018-01-26",
+    "origin_icao": "SBVT",
+    "dest_icao": "SBGL",
+    "ticket_value_brl": 725.07,
+    "accommodation_value_brl": 461.54,
+    "excursion_value_brl": 387.48,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "RIO DE JANEIRO",
+      "start": "2018-01-26",
+      "end": "2018-01-31"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2018,
+    "month": 1,
+    "rota": "SBVT→SBGL"
+  },
+  {
+    "booking_id": "BK-202112-00049",
+    "flight_date": "2021-12-19",
+    "origin_icao": "SBSO",
+    "dest_icao": "SBCG",
+    "ticket_value_brl": 1970.75,
+    "accommodation_value_brl": 210.02,
+    "excursion_value_brl": 233.67,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "CAMPO GRANDE",
+      "start": "2021-12-19",
+      "end": "2021-12-21"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 12,
+    "rota": "SBSO→SBCG"
+  },
+  {
+    "booking_id": "BK-201812-00050",
+    "flight_date": "2018-12-17",
+    "origin_icao": "SBEG",
+    "dest_icao": "SBUY",
+    "ticket_value_brl": 519.45,
+    "accommodation_value_brl": 683.22,
+    "excursion_value_brl": 340.54,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "COARI",
+      "start": "2018-12-17",
+      "end": "2018-12-20"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2018,
+    "month": 12,
+    "rota": "SBEG→SBUY"
+  },
+  {
+    "booking_id": "BK-202102-00051",
+    "flight_date": "2021-02-03",
+    "origin_icao": "SBDN",
+    "dest_icao": "SBMO",
+    "ticket_value_brl": 1817.95,
+    "accommodation_value_brl": 396.96,
+    "excursion_value_brl": 47.95,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "RIO LARGO",
+      "start": "2021-02-03",
+      "end": "2021-02-05"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 2,
+    "rota": "SBDN→SBMO"
+  },
+  {
+    "booking_id": "BK-202106-00052",
+    "flight_date": "2021-06-19",
+    "origin_icao": "SBGR",
+    "dest_icao": "SBJD",
+    "ticket_value_brl": 1615.73,
+    "accommodation_value_brl": 191.73,
+    "excursion_value_brl": 32.79,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "JUNDIAÍ",
+      "start": "2021-06-19",
+      "end": "2021-06-22"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 6,
+    "rota": "SBGR→SBJD"
+  },
+  {
+    "booking_id": "BK-202506-00053",
+    "flight_date": "2025-06-22",
+    "origin_icao": "SBBE",
+    "dest_icao": "SBSN",
+    "ticket_value_brl": 2362.88,
+    "accommodation_value_brl": 364.47,
+    "excursion_value_brl": 286.48,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "SANTARÉM",
+      "start": "2025-06-22",
+      "end": "2025-06-26"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 6,
+    "rota": "SBBE→SBSN"
+  },
+  {
+    "booking_id": "BK-202509-00054",
+    "flight_date": "2025-09-08",
+    "origin_icao": "SBGR",
+    "dest_icao": "SBCY",
+    "ticket_value_brl": 1231.15,
+    "accommodation_value_brl": 855.27,
+    "excursion_value_brl": 120.0,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "VÁRZEA GRANDE",
+      "start": "2025-09-08",
+      "end": "2025-09-12"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 9,
+    "rota": "SBGR→SBCY"
+  },
+  {
+    "booking_id": "BK-202408-00055",
+    "flight_date": "2024-08-11",
+    "origin_icao": "SBFL",
+    "dest_icao": "SBUG",
+    "ticket_value_brl": 419.56,
+    "accommodation_value_brl": 802.22,
+    "excursion_value_brl": 225.2,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "URUGUAIANA",
+      "start": "2024-08-11",
+      "end": "2024-08-13"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2024,
+    "month": 8,
+    "rota": "SBFL→SBUG"
+  },
+  {
+    "booking_id": "BK-202309-00056",
+    "flight_date": "2023-09-04",
+    "origin_icao": "SBSG",
+    "dest_icao": "SBGL",
+    "ticket_value_brl": 1529.03,
+    "accommodation_value_brl": 681.18,
+    "excursion_value_brl": 52.98,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "RIO DE JANEIRO",
+      "start": "2023-09-04",
+      "end": "2023-09-06"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2023,
+    "month": 9,
+    "rota": "SBSG→SBGL"
+  },
+  {
+    "booking_id": "BK-201905-00057",
+    "flight_date": "2019-05-12",
+    "origin_icao": "SBBE",
+    "dest_icao": "SBRP",
+    "ticket_value_brl": 2246.47,
+    "accommodation_value_brl": 538.0,
+    "excursion_value_brl": 63.1,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "RIBEIRÃO PRETO",
+      "start": "2019-05-12",
+      "end": "2019-05-14"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2019,
+    "month": 5,
+    "rota": "SBBE→SBRP"
+  },
+  {
+    "booking_id": "BK-202405-00058",
+    "flight_date": "2024-05-27",
+    "origin_icao": "SBKP",
+    "dest_icao": "SBNM",
+    "ticket_value_brl": 1684.52,
+    "accommodation_value_brl": 1186.59,
+    "excursion_value_brl": 261.59,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "SANTO ÂNGELO",
+      "start": "2024-05-27",
+      "end": "2024-05-31"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": true
+    },
+    "year": 2024,
+    "month": 5,
+    "rota": "SBKP→SBNM"
+  },
+  {
+    "booking_id": "BK-202510-00059",
+    "flight_date": "2025-10-01",
+    "origin_icao": "SBAR",
+    "dest_icao": "SBRF",
+    "ticket_value_brl": 2356.69,
+    "accommodation_value_brl": 258.77,
+    "excursion_value_brl": 351.25,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "RECIFE",
+      "start": "2025-10-01",
+      "end": "2025-10-05"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 10,
+    "rota": "SBAR→SBRF"
+  },
+  {
+    "booking_id": "BK-202110-00060",
+    "flight_date": "2021-10-09",
+    "origin_icao": "SBCF",
+    "dest_icao": "SBPA",
+    "ticket_value_brl": 2268.4,
+    "accommodation_value_brl": 929.54,
+    "excursion_value_brl": 62.18,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "PORTO ALEGRE",
+      "start": "2021-10-09",
+      "end": "2021-10-11"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 10,
+    "rota": "SBCF→SBPA"
+  },
+  {
+    "booking_id": "BK-202507-00061",
+    "flight_date": "2025-07-10",
+    "origin_icao": "SBKP",
+    "dest_icao": "SBRF",
+    "ticket_value_brl": 1906.99,
+    "accommodation_value_brl": 363.78,
+    "excursion_value_brl": 253.7,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "RECIFE",
+      "start": "2025-07-10",
+      "end": "2025-07-13"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 7,
+    "rota": "SBKP→SBRF"
+  },
+  {
+    "booking_id": "BK-202305-00062",
+    "flight_date": "2023-05-09",
+    "origin_icao": "SBRB",
+    "dest_icao": "SBGR",
+    "ticket_value_brl": 927.35,
+    "accommodation_value_brl": 1103.57,
+    "excursion_value_brl": 20.32,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "GUARULHOS",
+      "start": "2023-05-09",
+      "end": "2023-05-14"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2023,
+    "month": 5,
+    "rota": "SBRB→SBGR"
+  },
+  {
+    "booking_id": "BK-202503-00063",
+    "flight_date": "2025-03-21",
+    "origin_icao": "SBKP",
+    "dest_icao": "SBCA",
+    "ticket_value_brl": 2141.63,
+    "accommodation_value_brl": 196.29,
+    "excursion_value_brl": 133.42,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "CASCAVEL",
+      "start": "2025-03-21",
+      "end": "2025-03-26"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 3,
+    "rota": "SBKP→SBCA"
+  },
+  {
+    "booking_id": "BK-202308-00064",
+    "flight_date": "2023-08-05",
+    "origin_icao": "SBCJ",
+    "dest_icao": "SBCF",
+    "ticket_value_brl": 739.32,
+    "accommodation_value_brl": 613.93,
+    "excursion_value_brl": 282.27,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "CONFINS",
+      "start": "2023-08-05",
+      "end": "2023-08-09"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2023,
+    "month": 8,
+    "rota": "SBCJ→SBCF"
+  },
+  {
+    "booking_id": "BK-202410-00065",
+    "flight_date": "2024-10-18",
+    "origin_icao": "SBKG",
+    "dest_icao": "SBRF",
+    "ticket_value_brl": 634.94,
+    "accommodation_value_brl": 1142.3,
+    "excursion_value_brl": 276.41,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "RECIFE",
+      "start": "2024-10-18",
+      "end": "2024-10-20"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2024,
+    "month": 10,
+    "rota": "SBKG→SBRF"
+  },
+  {
+    "booking_id": "BK-202309-00066",
+    "flight_date": "2023-09-05",
+    "origin_icao": "SBPJ",
+    "dest_icao": "SBCF",
+    "ticket_value_brl": 2152.65,
+    "accommodation_value_brl": 761.64,
+    "excursion_value_brl": 59.24,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "CONFINS",
+      "start": "2023-09-05",
+      "end": "2023-09-07"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2023,
+    "month": 9,
+    "rota": "SBPJ→SBCF"
+  },
+  {
+    "booking_id": "BK-201610-00067",
+    "flight_date": "2016-10-05",
+    "origin_icao": "SBRF",
+    "dest_icao": "SBMO",
+    "ticket_value_brl": 1047.34,
+    "accommodation_value_brl": 1093.93,
+    "excursion_value_brl": 318.45,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "RIO LARGO",
+      "start": "2016-10-05",
+      "end": "2016-10-07"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2016,
+    "month": 10,
+    "rota": "SBRF→SBMO"
+  },
+  {
+    "booking_id": "BK-201906-00068",
+    "flight_date": "2019-06-28",
+    "origin_icao": "SBNF",
+    "dest_icao": "SBGL",
+    "ticket_value_brl": 2287.74,
+    "accommodation_value_brl": 370.58,
+    "excursion_value_brl": 99.81,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "RIO DE JANEIRO",
+      "start": "2019-06-28",
+      "end": "2019-06-30"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2019,
+    "month": 6,
+    "rota": "SBNF→SBGL"
+  },
+  {
+    "booking_id": "BK-202208-00069",
+    "flight_date": "2022-08-04",
+    "origin_icao": "SBRP",
+    "dest_icao": "SBGR",
+    "ticket_value_brl": 2038.24,
+    "accommodation_value_brl": 1078.34,
+    "excursion_value_brl": 162.55,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "GUARULHOS",
+      "start": "2022-08-04",
+      "end": "2022-08-08"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2022,
+    "month": 8,
+    "rota": "SBRP→SBGR"
+  },
+  {
+    "booking_id": "BK-202301-00070",
+    "flight_date": "2023-01-20",
+    "origin_icao": "SBKP",
+    "dest_icao": "SBPJ",
+    "ticket_value_brl": 2344.1,
+    "accommodation_value_brl": 398.57,
+    "excursion_value_brl": 65.0,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "PALMAS",
+      "start": "2023-01-20",
+      "end": "2023-01-23"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2023,
+    "month": 1,
+    "rota": "SBKP→SBPJ"
+  },
+  {
+    "booking_id": "BK-201603-00071",
+    "flight_date": "2016-03-26",
+    "origin_icao": "SBCF",
+    "dest_icao": "SBAX",
+    "ticket_value_brl": 2250.97,
+    "accommodation_value_brl": 176.03,
+    "excursion_value_brl": 294.63,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "ARAXÁ",
+      "start": "2016-03-26",
+      "end": "2016-03-29"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2016,
+    "month": 3,
+    "rota": "SBCF→SBAX"
+  },
+  {
+    "booking_id": "BK-201606-00072",
+    "flight_date": "2016-06-11",
+    "origin_icao": "SBSG",
+    "dest_icao": "SBGL",
+    "ticket_value_brl": 2084.69,
+    "accommodation_value_brl": 1057.27,
+    "excursion_value_brl": 324.3,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "RIO DE JANEIRO",
+      "start": "2016-06-11",
+      "end": "2016-06-16"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2016,
+    "month": 6,
+    "rota": "SBSG→SBGL"
+  },
+  {
+    "booking_id": "BK-201709-00073",
+    "flight_date": "2017-09-09",
+    "origin_icao": "SBVT",
+    "dest_icao": "SBCP",
+    "ticket_value_brl": 2053.49,
+    "accommodation_value_brl": 263.5,
+    "excursion_value_brl": 348.87,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "CAMPOS DOS GOYTACAZES",
+      "start": "2017-09-09",
+      "end": "2017-09-12"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2017,
+    "month": 9,
+    "rota": "SBVT→SBCP"
+  },
+  {
+    "booking_id": "BK-202212-00074",
+    "flight_date": "2022-12-28",
+    "origin_icao": "SBTU",
+    "dest_icao": "SBBE",
+    "ticket_value_brl": 867.11,
+    "accommodation_value_brl": 1007.42,
+    "excursion_value_brl": 184.12,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "BELÉM",
+      "start": "2022-12-28",
+      "end": "2023-01-02"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": true
+    },
+    "year": 2022,
+    "month": 12,
+    "rota": "SBTU→SBBE"
+  },
+  {
+    "booking_id": "BK-202202-00075",
+    "flight_date": "2022-02-10",
+    "origin_icao": "SBCH",
+    "dest_icao": "SBCH",
+    "ticket_value_brl": 868.14,
+    "accommodation_value_brl": 843.03,
+    "excursion_value_brl": 159.39,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "CHAPECÓ",
+      "start": "2022-02-10",
+      "end": "2022-02-13"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": true
+    },
+    "year": 2022,
+    "month": 2,
+    "rota": "SBCH→SBCH"
+  },
+  {
+    "booking_id": "BK-201908-00076",
+    "flight_date": "2019-08-09",
+    "origin_icao": "SBSP",
+    "dest_icao": "SBFI",
+    "ticket_value_brl": 2430.47,
+    "accommodation_value_brl": 443.08,
+    "excursion_value_brl": 256.59,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "FOZ DO IGUAÇU",
+      "start": "2019-08-09",
+      "end": "2019-08-11"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2019,
+    "month": 8,
+    "rota": "SBSP→SBFI"
+  },
+  {
+    "booking_id": "BK-201708-00077",
+    "flight_date": "2017-08-13",
+    "origin_icao": "SBAX",
+    "dest_icao": "SBCF",
+    "ticket_value_brl": 2372.4,
+    "accommodation_value_brl": 271.11,
+    "excursion_value_brl": 388.16,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "CONFINS",
+      "start": "2017-08-13",
+      "end": "2017-08-17"
+    },
+    "outcome": {
+      "cancelled": true,
+      "rain_trigger_10mm": false
+    },
+    "year": 2017,
+    "month": 8,
+    "rota": "SBAX→SBCF"
+  },
+  {
+    "booking_id": "BK-202210-00078",
+    "flight_date": "2022-10-06",
+    "origin_icao": "SBUL",
+    "dest_icao": "SBSP",
+    "ticket_value_brl": 480.34,
+    "accommodation_value_brl": 776.4,
+    "excursion_value_brl": 138.27,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "SÃO PAULO",
+      "start": "2022-10-06",
+      "end": "2022-10-10"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2022,
+    "month": 10,
+    "rota": "SBUL→SBSP"
+  },
+  {
+    "booking_id": "BK-202508-00079",
+    "flight_date": "2025-08-26",
+    "origin_icao": "SBSN",
+    "dest_icao": "SBTB",
+    "ticket_value_brl": 1316.43,
+    "accommodation_value_brl": 1183.45,
+    "excursion_value_brl": 46.26,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "ORIXIMINÁ",
+      "start": "2025-08-26",
+      "end": "2025-08-30"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 8,
+    "rota": "SBSN→SBTB"
+  },
+  {
+    "booking_id": "BK-201611-00080",
+    "flight_date": "2016-11-19",
+    "origin_icao": "SBRF",
+    "dest_icao": "SBKP",
+    "ticket_value_brl": 934.92,
+    "accommodation_value_brl": 894.22,
+    "excursion_value_brl": 0.68,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "CAMPINAS",
+      "start": "2016-11-19",
+      "end": "2016-11-22"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2016,
+    "month": 11,
+    "rota": "SBRF→SBKP"
+  },
+  {
+    "booking_id": "BK-202210-00081",
+    "flight_date": "2022-10-26",
+    "origin_icao": "SBCY",
+    "dest_icao": "SBSP",
+    "ticket_value_brl": 1164.87,
+    "accommodation_value_brl": 223.47,
+    "excursion_value_brl": 265.7,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "SÃO PAULO",
+      "start": "2022-10-26",
+      "end": "2022-10-29"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2022,
+    "month": 10,
+    "rota": "SBCY→SBSP"
+  },
+  {
+    "booking_id": "BK-201809-00082",
+    "flight_date": "2018-09-11",
+    "origin_icao": "SBRF",
+    "dest_icao": "SBAR",
+    "ticket_value_brl": 1793.11,
+    "accommodation_value_brl": 280.86,
+    "excursion_value_brl": 360.02,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "ARACAJU",
+      "start": "2018-09-11",
+      "end": "2018-09-15"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2018,
+    "month": 9,
+    "rota": "SBRF→SBAR"
+  },
+  {
+    "booking_id": "BK-202506-00083",
+    "flight_date": "2025-06-17",
+    "origin_icao": "SBCF",
+    "dest_icao": "SBTC",
+    "ticket_value_brl": 1800.48,
+    "accommodation_value_brl": 492.49,
+    "excursion_value_brl": 278.88,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "UNA",
+      "start": "2025-06-17",
+      "end": "2025-06-21"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 6,
+    "rota": "SBCF→SBTC"
+  },
+  {
+    "booking_id": "BK-201601-00084",
+    "flight_date": "2016-01-18",
+    "origin_icao": "SBSJ",
+    "dest_icao": "SBSP",
+    "ticket_value_brl": 802.86,
+    "accommodation_value_brl": 848.18,
+    "excursion_value_brl": 151.66,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "SÃO PAULO",
+      "start": "2016-01-18",
+      "end": "2016-01-21"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2016,
+    "month": 1,
+    "rota": "SBSJ→SBSP"
+  },
+  {
+    "booking_id": "BK-201807-00085",
+    "flight_date": "2018-07-24",
+    "origin_icao": "SBCF",
+    "dest_icao": "SBFE",
+    "ticket_value_brl": 1692.58,
+    "accommodation_value_brl": 466.0,
+    "excursion_value_brl": 219.17,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "FEIRA DE SANTANA",
+      "start": "2018-07-24",
+      "end": "2018-07-27"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2018,
+    "month": 7,
+    "rota": "SBCF→SBFE"
+  },
+  {
+    "booking_id": "BK-201905-00086",
+    "flight_date": "2019-05-01",
+    "origin_icao": "SBCN",
+    "dest_icao": "SBKP",
+    "ticket_value_brl": 1002.52,
+    "accommodation_value_brl": 601.38,
+    "excursion_value_brl": 231.99,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "CAMPINAS",
+      "start": "2019-05-01",
+      "end": "2019-05-05"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2019,
+    "month": 5,
+    "rota": "SBCN→SBKP"
+  },
+  {
+    "booking_id": "BK-202412-00087",
+    "flight_date": "2024-12-21",
+    "origin_icao": "SBGR",
+    "dest_icao": "SBPS",
+    "ticket_value_brl": 1376.48,
+    "accommodation_value_brl": 614.27,
+    "excursion_value_brl": 85.48,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "PORTO SEGURO",
+      "start": "2024-12-21",
+      "end": "2024-12-25"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2024,
+    "month": 12,
+    "rota": "SBGR→SBPS"
+  },
+  {
+    "booking_id": "BK-201907-00088",
+    "flight_date": "2019-07-16",
+    "origin_icao": "SBGL",
+    "dest_icao": "SBEG",
+    "ticket_value_brl": 1783.59,
+    "accommodation_value_brl": 447.98,
+    "excursion_value_brl": 265.54,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "MANAUS",
+      "start": "2019-07-16",
+      "end": "2019-07-19"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2019,
+    "month": 7,
+    "rota": "SBGL→SBEG"
+  },
+  {
+    "booking_id": "BK-202409-00089",
+    "flight_date": "2024-09-20",
+    "origin_icao": "SBJU",
+    "dest_icao": "SBBR",
+    "ticket_value_brl": 596.11,
+    "accommodation_value_brl": 1149.6,
+    "excursion_value_brl": 93.95,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "BRASÍLIA",
+      "start": "2024-09-20",
+      "end": "2024-09-24"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2024,
+    "month": 9,
+    "rota": "SBJU→SBBR"
+  },
+  {
+    "booking_id": "BK-201602-00090",
+    "flight_date": "2016-02-10",
+    "origin_icao": "SBDN",
+    "dest_icao": "SBCG",
+    "ticket_value_brl": 2093.78,
+    "accommodation_value_brl": 304.72,
+    "excursion_value_brl": 18.49,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "CAMPO GRANDE",
+      "start": "2016-02-10",
+      "end": "2016-02-13"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2016,
+    "month": 2,
+    "rota": "SBDN→SBCG"
+  },
+  {
+    "booking_id": "BK-201806-00091",
+    "flight_date": "2018-06-16",
+    "origin_icao": "SBVT",
+    "dest_icao": "SBKP",
+    "ticket_value_brl": 1356.37,
+    "accommodation_value_brl": 1080.44,
+    "excursion_value_brl": 230.27,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "CAMPINAS",
+      "start": "2018-06-16",
+      "end": "2018-06-18"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2018,
+    "month": 6,
+    "rota": "SBVT→SBKP"
+  },
+  {
+    "booking_id": "BK-201801-00092",
+    "flight_date": "2018-01-23",
+    "origin_icao": "SBRF",
+    "dest_icao": "SBGO",
+    "ticket_value_brl": 1438.19,
+    "accommodation_value_brl": 406.18,
+    "excursion_value_brl": 262.42,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "GOIÂNIA",
+      "start": "2018-01-23",
+      "end": "2018-01-28"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2018,
+    "month": 1,
+    "rota": "SBRF→SBGO"
+  },
+  {
+    "booking_id": "BK-202205-00093",
+    "flight_date": "2022-05-01",
+    "origin_icao": "SBGO",
+    "dest_icao": "SBCG",
+    "ticket_value_brl": 2034.68,
+    "accommodation_value_brl": 379.78,
+    "excursion_value_brl": 321.64,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "CAMPO GRANDE",
+      "start": "2022-05-01",
+      "end": "2022-05-03"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2022,
+    "month": 5,
+    "rota": "SBGO→SBCG"
+  },
+  {
+    "booking_id": "BK-202002-00094",
+    "flight_date": "2020-02-23",
+    "origin_icao": "SBCF",
+    "dest_icao": "SBVT",
+    "ticket_value_brl": 505.46,
+    "accommodation_value_brl": 411.66,
+    "excursion_value_brl": 339.33,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "VITÓRIA",
+      "start": "2020-02-23",
+      "end": "2020-02-28"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2020,
+    "month": 2,
+    "rota": "SBCF→SBVT"
+  },
+  {
+    "booking_id": "BK-202505-00095",
+    "flight_date": "2025-05-15",
+    "origin_icao": "SBSP",
+    "dest_icao": "SBNF",
+    "ticket_value_brl": 2082.97,
+    "accommodation_value_brl": 850.96,
+    "excursion_value_brl": 395.16,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "NAVEGANTES",
+      "start": "2025-05-15",
+      "end": "2025-05-18"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 5,
+    "rota": "SBSP→SBNF"
+  },
+  {
+    "booking_id": "BK-202106-00096",
+    "flight_date": "2021-06-20",
+    "origin_icao": "SBMG",
+    "dest_icao": "SBLO",
+    "ticket_value_brl": 2395.08,
+    "accommodation_value_brl": 1086.0,
+    "excursion_value_brl": 245.06,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "LONDRINA",
+      "start": "2021-06-20",
+      "end": "2021-06-24"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": true
+    },
+    "year": 2021,
+    "month": 6,
+    "rota": "SBMG→SBLO"
+  },
+  {
+    "booking_id": "BK-202105-00097",
+    "flight_date": "2021-05-24",
+    "origin_icao": "SBKP",
+    "dest_icao": "SBPV",
+    "ticket_value_brl": 2144.2,
+    "accommodation_value_brl": 725.27,
+    "excursion_value_brl": 358.88,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "PORTO VELHO",
+      "start": "2021-05-24",
+      "end": "2021-05-29"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 5,
+    "rota": "SBKP→SBPV"
+  },
+  {
+    "booking_id": "BK-201908-00098",
+    "flight_date": "2019-08-24",
+    "origin_icao": "SBSR",
+    "dest_icao": "SBRP",
+    "ticket_value_brl": 1345.15,
+    "accommodation_value_brl": 939.37,
+    "excursion_value_brl": 335.95,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "RIBEIRÃO PRETO",
+      "start": "2019-08-24",
+      "end": "2019-08-29"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2019,
+    "month": 8,
+    "rota": "SBSR→SBRP"
+  },
+  {
+    "booking_id": "BK-202302-00099",
+    "flight_date": "2023-02-09",
+    "origin_icao": "SBGL",
+    "dest_icao": "SBPS",
+    "ticket_value_brl": 1716.17,
+    "accommodation_value_brl": 438.33,
+    "excursion_value_brl": 30.99,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "PORTO SEGURO",
+      "start": "2023-02-09",
+      "end": "2023-02-14"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2023,
+    "month": 2,
+    "rota": "SBGL→SBPS"
+  },
+  {
+    "booking_id": "BK-202107-00100",
+    "flight_date": "2021-07-10",
+    "origin_icao": "SBDN",
+    "dest_icao": "SBKP",
+    "ticket_value_brl": 970.6,
+    "accommodation_value_brl": 485.7,
+    "excursion_value_brl": 216.06,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "CAMPINAS",
+      "start": "2021-07-10",
+      "end": "2021-07-13"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 7,
+    "rota": "SBDN→SBKP"
+  },
+  {
+    "booking_id": "BK-202208-00101",
+    "flight_date": "2022-08-05",
+    "origin_icao": "SBKP",
+    "dest_icao": "SBRD",
+    "ticket_value_brl": 885.65,
+    "accommodation_value_brl": 878.65,
+    "excursion_value_brl": 282.57,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "RONDONÓPOLIS",
+      "start": "2022-08-05",
+      "end": "2022-08-08"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2022,
+    "month": 8,
+    "rota": "SBKP→SBRD"
+  },
+  {
+    "booking_id": "BK-202306-00102",
+    "flight_date": "2023-06-03",
+    "origin_icao": "SBLO",
+    "dest_icao": "SBGR",
+    "ticket_value_brl": 1255.96,
+    "accommodation_value_brl": 719.74,
+    "excursion_value_brl": 166.31,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "GUARULHOS",
+      "start": "2023-06-03",
+      "end": "2023-06-08"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": true
+    },
+    "year": 2023,
+    "month": 6,
+    "rota": "SBLO→SBGR"
+  },
+  {
+    "booking_id": "BK-202303-00103",
+    "flight_date": "2023-03-07",
+    "origin_icao": "SBUL",
+    "dest_icao": "SBMO",
+    "ticket_value_brl": 1217.9,
+    "accommodation_value_brl": 958.29,
+    "excursion_value_brl": 378.42,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "RIO LARGO",
+      "start": "2023-03-07",
+      "end": "2023-03-12"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2023,
+    "month": 3,
+    "rota": "SBUL→SBMO"
+  },
+  {
+    "booking_id": "BK-201912-00104",
+    "flight_date": "2019-12-01",
+    "origin_icao": "SBFL",
+    "dest_icao": "SBRP",
+    "ticket_value_brl": 1401.66,
+    "accommodation_value_brl": 1139.88,
+    "excursion_value_brl": 119.45,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "RIBEIRÃO PRETO",
+      "start": "2019-12-01",
+      "end": "2019-12-06"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2019,
+    "month": 12,
+    "rota": "SBFL→SBRP"
+  },
+  {
+    "booking_id": "BK-202305-00105",
+    "flight_date": "2023-05-13",
+    "origin_icao": "SBBV",
+    "dest_icao": "SBBR",
+    "ticket_value_brl": 1530.26,
+    "accommodation_value_brl": 921.37,
+    "excursion_value_brl": 319.95,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "BRASÍLIA",
+      "start": "2023-05-13",
+      "end": "2023-05-18"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2023,
+    "month": 5,
+    "rota": "SBBV→SBBR"
+  },
+  {
+    "booking_id": "BK-201601-00106",
+    "flight_date": "2016-01-08",
+    "origin_icao": "SBCT",
+    "dest_icao": "SBCB",
+    "ticket_value_brl": 860.79,
+    "accommodation_value_brl": 607.63,
+    "excursion_value_brl": 11.61,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "CABO FRIO",
+      "start": "2016-01-08",
+      "end": "2016-01-13"
+    },
+    "outcome": {
+      "cancelled": true,
+      "rain_trigger_10mm": false
+    },
+    "year": 2016,
+    "month": 1,
+    "rota": "SBCT→SBCB"
+  },
+  {
+    "booking_id": "BK-202303-00107",
+    "flight_date": "2023-03-11",
+    "origin_icao": "SBCT",
+    "dest_icao": "SBLO",
+    "ticket_value_brl": 1920.78,
+    "accommodation_value_brl": 1032.53,
+    "excursion_value_brl": 367.82,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "LONDRINA",
+      "start": "2023-03-11",
+      "end": "2023-03-16"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2023,
+    "month": 3,
+    "rota": "SBCT→SBLO"
+  },
+  {
+    "booking_id": "BK-202309-00108",
+    "flight_date": "2023-09-20",
+    "origin_icao": "SBCT",
+    "dest_icao": "SBPO",
+    "ticket_value_brl": 2304.55,
+    "accommodation_value_brl": 771.49,
+    "excursion_value_brl": 265.2,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "PATO BRANCO",
+      "start": "2023-09-20",
+      "end": "2023-09-22"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2023,
+    "month": 9,
+    "rota": "SBCT→SBPO"
+  },
+  {
+    "booking_id": "BK-201711-00109",
+    "flight_date": "2017-11-03",
+    "origin_icao": "SBBR",
+    "dest_icao": "SBJP",
+    "ticket_value_brl": 684.97,
+    "accommodation_value_brl": 634.78,
+    "excursion_value_brl": 20.11,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "SANTA RITA",
+      "start": "2017-11-03",
+      "end": "2017-11-08"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2017,
+    "month": 11,
+    "rota": "SBBR→SBJP"
+  },
+  {
+    "booking_id": "BK-202207-00110",
+    "flight_date": "2022-07-13",
+    "origin_icao": "SBFZ",
+    "dest_icao": "SBBV",
+    "ticket_value_brl": 844.49,
+    "accommodation_value_brl": 493.19,
+    "excursion_value_brl": 304.49,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "BOA VISTA",
+      "start": "2022-07-13",
+      "end": "2022-07-17"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": true
+    },
+    "year": 2022,
+    "month": 7,
+    "rota": "SBFZ→SBBV"
+  },
+  {
+    "booking_id": "BK-201707-00111",
+    "flight_date": "2017-07-13",
+    "origin_icao": "SBCT",
+    "dest_icao": "SBPA",
+    "ticket_value_brl": 1979.22,
+    "accommodation_value_brl": 1023.52,
+    "excursion_value_brl": 100.91,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "PORTO ALEGRE",
+      "start": "2017-07-13",
+      "end": "2017-07-17"
+    },
+    "outcome": {
+      "cancelled": true,
+      "rain_trigger_10mm": false
+    },
+    "year": 2017,
+    "month": 7,
+    "rota": "SBCT→SBPA"
+  },
+  {
+    "booking_id": "BK-202105-00112",
+    "flight_date": "2021-05-03",
+    "origin_icao": "SBFZ",
+    "dest_icao": "SBGR",
+    "ticket_value_brl": 440.7,
+    "accommodation_value_brl": 716.39,
+    "excursion_value_brl": 399.96,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "GUARULHOS",
+      "start": "2021-05-03",
+      "end": "2021-05-08"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 5,
+    "rota": "SBFZ→SBGR"
+  },
+  {
+    "booking_id": "BK-202503-00113",
+    "flight_date": "2025-03-12",
+    "origin_icao": "SBMA",
+    "dest_icao": "SBCF",
+    "ticket_value_brl": 1765.3,
+    "accommodation_value_brl": 970.29,
+    "excursion_value_brl": 260.7,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "CONFINS",
+      "start": "2025-03-12",
+      "end": "2025-03-15"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 3,
+    "rota": "SBMA→SBCF"
+  },
+  {
+    "booking_id": "BK-201905-00114",
+    "flight_date": "2019-05-25",
+    "origin_icao": "SBCX",
+    "dest_icao": "SBKP",
+    "ticket_value_brl": 2394.18,
+    "accommodation_value_brl": 359.33,
+    "excursion_value_brl": 8.15,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "CAMPINAS",
+      "start": "2019-05-25",
+      "end": "2019-05-27"
+    },
+    "outcome": {
+      "cancelled": true,
+      "rain_trigger_10mm": false
+    },
+    "year": 2019,
+    "month": 5,
+    "rota": "SBCX→SBKP"
+  },
+  {
+    "booking_id": "BK-201809-00115",
+    "flight_date": "2018-09-05",
+    "origin_icao": "SBGL",
+    "dest_icao": "SBFZ",
+    "ticket_value_brl": 665.06,
+    "accommodation_value_brl": 852.93,
+    "excursion_value_brl": 225.59,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "FORTALEZA",
+      "start": "2018-09-05",
+      "end": "2018-09-08"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2018,
+    "month": 9,
+    "rota": "SBGL→SBFZ"
+  },
+  {
+    "booking_id": "BK-201601-00116",
+    "flight_date": "2016-01-07",
+    "origin_icao": "SBIP",
+    "dest_icao": "SBQV",
+    "ticket_value_brl": 1868.88,
+    "accommodation_value_brl": 955.24,
+    "excursion_value_brl": 67.12,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "VITÓRIA DA CONQUISTA",
+      "start": "2016-01-07",
+      "end": "2016-01-12"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": true
+    },
+    "year": 2016,
+    "month": 1,
+    "rota": "SBIP→SBQV"
+  },
+  {
+    "booking_id": "BK-201905-00117",
+    "flight_date": "2019-05-20",
+    "origin_icao": "SBRF",
+    "dest_icao": "SBPL",
+    "ticket_value_brl": 2033.36,
+    "accommodation_value_brl": 321.95,
+    "excursion_value_brl": 124.42,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "PETROLINA",
+      "start": "2019-05-20",
+      "end": "2019-05-22"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2019,
+    "month": 5,
+    "rota": "SBRF→SBPL"
+  },
+  {
+    "booking_id": "BK-202307-00118",
+    "flight_date": "2023-07-19",
+    "origin_icao": "SBMO",
+    "dest_icao": "SBPS",
+    "ticket_value_brl": 2350.66,
+    "accommodation_value_brl": 754.59,
+    "excursion_value_brl": 363.21,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "PORTO SEGURO",
+      "start": "2023-07-19",
+      "end": "2023-07-21"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2023,
+    "month": 7,
+    "rota": "SBMO→SBPS"
+  },
+  {
+    "booking_id": "BK-202404-00119",
+    "flight_date": "2024-04-13",
+    "origin_icao": "SBPS",
+    "dest_icao": "SBPS",
+    "ticket_value_brl": 2377.09,
+    "accommodation_value_brl": 358.25,
+    "excursion_value_brl": 236.84,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "PORTO SEGURO",
+      "start": "2024-04-13",
+      "end": "2024-04-18"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2024,
+    "month": 4,
+    "rota": "SBPS→SBPS"
+  },
+  {
+    "booking_id": "BK-202103-00120",
+    "flight_date": "2021-03-27",
+    "origin_icao": "SBFL",
+    "dest_icao": "SBGR",
+    "ticket_value_brl": 613.99,
+    "accommodation_value_brl": 961.1,
+    "excursion_value_brl": 340.12,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "GUARULHOS",
+      "start": "2021-03-27",
+      "end": "2021-03-30"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": true
+    },
+    "year": 2021,
+    "month": 3,
+    "rota": "SBFL→SBGR"
+  },
+  {
+    "booking_id": "BK-201704-00121",
+    "flight_date": "2017-04-20",
+    "origin_icao": "SBCY",
+    "dest_icao": "SBCY",
+    "ticket_value_brl": 2072.08,
+    "accommodation_value_brl": 744.23,
+    "excursion_value_brl": 16.43,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "VÁRZEA GRANDE",
+      "start": "2017-04-20",
+      "end": "2017-04-22"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": true
+    },
+    "year": 2017,
+    "month": 4,
+    "rota": "SBCY→SBCY"
+  },
+  {
+    "booking_id": "BK-201803-00122",
+    "flight_date": "2018-03-18",
+    "origin_icao": "SBTE",
+    "dest_icao": "SBBE",
+    "ticket_value_brl": 1789.19,
+    "accommodation_value_brl": 222.4,
+    "excursion_value_brl": 259.02,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "BELÉM",
+      "start": "2018-03-18",
+      "end": "2018-03-23"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2018,
+    "month": 3,
+    "rota": "SBTE→SBBE"
+  },
+  {
+    "booking_id": "BK-201803-00123",
+    "flight_date": "2018-03-01",
+    "origin_icao": "SBVT",
+    "dest_icao": "SBPA",
+    "ticket_value_brl": 2126.89,
+    "accommodation_value_brl": 260.82,
+    "excursion_value_brl": 384.32,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "PORTO ALEGRE",
+      "start": "2018-03-01",
+      "end": "2018-03-06"
+    },
+    "outcome": {
+      "cancelled": true,
+      "rain_trigger_10mm": false
+    },
+    "year": 2018,
+    "month": 3,
+    "rota": "SBVT→SBPA"
+  },
+  {
+    "booking_id": "BK-202404-00124",
+    "flight_date": "2024-04-21",
+    "origin_icao": "SBBE",
+    "dest_icao": "SBBV",
+    "ticket_value_brl": 1885.35,
+    "accommodation_value_brl": 607.26,
+    "excursion_value_brl": 293.52,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "BOA VISTA",
+      "start": "2024-04-21",
+      "end": "2024-04-26"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2024,
+    "month": 4,
+    "rota": "SBBE→SBBV"
+  },
+  {
+    "booking_id": "BK-201601-00125",
+    "flight_date": "2016-01-21",
+    "origin_icao": "SBIP",
+    "dest_icao": "SBKP",
+    "ticket_value_brl": 1693.42,
+    "accommodation_value_brl": 1115.6,
+    "excursion_value_brl": 309.86,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "CAMPINAS",
+      "start": "2016-01-21",
+      "end": "2016-01-25"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2016,
+    "month": 1,
+    "rota": "SBIP→SBKP"
+  },
+  {
+    "booking_id": "BK-201812-00126",
+    "flight_date": "2018-12-15",
+    "origin_icao": "SBKP",
+    "dest_icao": "SBSG",
+    "ticket_value_brl": 2134.04,
+    "accommodation_value_brl": 772.1,
+    "excursion_value_brl": 128.92,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "SÃO GONÇALO DO AMARANTE",
+      "start": "2018-12-15",
+      "end": "2018-12-20"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2018,
+    "month": 12,
+    "rota": "SBKP→SBSG"
+  },
+  {
+    "booking_id": "BK-202208-00127",
+    "flight_date": "2022-08-08",
+    "origin_icao": "SBMO",
+    "dest_icao": "SBBR",
+    "ticket_value_brl": 985.75,
+    "accommodation_value_brl": 623.34,
+    "excursion_value_brl": 300.19,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "BRASÍLIA",
+      "start": "2022-08-08",
+      "end": "2022-08-10"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2022,
+    "month": 8,
+    "rota": "SBMO→SBBR"
+  },
+  {
+    "booking_id": "BK-202009-00128",
+    "flight_date": "2020-09-19",
+    "origin_icao": "SBGR",
+    "dest_icao": "SBMK",
+    "ticket_value_brl": 1106.43,
+    "accommodation_value_brl": 669.02,
+    "excursion_value_brl": 130.01,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "MONTES CLAROS",
+      "start": "2020-09-19",
+      "end": "2020-09-24"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2020,
+    "month": 9,
+    "rota": "SBGR→SBMK"
+  },
+  {
+    "booking_id": "BK-201601-00129",
+    "flight_date": "2016-01-16",
+    "origin_icao": "SBBH",
+    "dest_icao": "SBLO",
+    "ticket_value_brl": 1145.13,
+    "accommodation_value_brl": 421.27,
+    "excursion_value_brl": 111.86,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "LONDRINA",
+      "start": "2016-01-16",
+      "end": "2016-01-19"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2016,
+    "month": 1,
+    "rota": "SBBH→SBLO"
+  },
+  {
+    "booking_id": "BK-201903-00130",
+    "flight_date": "2019-03-20",
+    "origin_icao": "SBCF",
+    "dest_icao": "SBGL",
+    "ticket_value_brl": 1567.16,
+    "accommodation_value_brl": 692.46,
+    "excursion_value_brl": 76.42,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "RIO DE JANEIRO",
+      "start": "2019-03-20",
+      "end": "2019-03-24"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2019,
+    "month": 3,
+    "rota": "SBCF→SBGL"
+  },
+  {
+    "booking_id": "BK-202509-00131",
+    "flight_date": "2025-09-08",
+    "origin_icao": "SBRF",
+    "dest_icao": "SBSL",
+    "ticket_value_brl": 1426.01,
+    "accommodation_value_brl": 946.07,
+    "excursion_value_brl": 276.24,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "SÃO LUÍS",
+      "start": "2025-09-08",
+      "end": "2025-09-13"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 9,
+    "rota": "SBRF→SBSL"
+  },
+  {
+    "booking_id": "BK-201807-00132",
+    "flight_date": "2018-07-21",
+    "origin_icao": "SBJP",
+    "dest_icao": "SBKP",
+    "ticket_value_brl": 1341.17,
+    "accommodation_value_brl": 168.11,
+    "excursion_value_brl": 117.69,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "CAMPINAS",
+      "start": "2018-07-21",
+      "end": "2018-07-26"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2018,
+    "month": 7,
+    "rota": "SBJP→SBKP"
+  },
+  {
+    "booking_id": "BK-201711-00133",
+    "flight_date": "2017-11-13",
+    "origin_icao": "SBSP",
+    "dest_icao": "SBTC",
+    "ticket_value_brl": 1043.03,
+    "accommodation_value_brl": 760.63,
+    "excursion_value_brl": 189.3,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "UNA",
+      "start": "2017-11-13",
+      "end": "2017-11-16"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2017,
+    "month": 11,
+    "rota": "SBSP→SBTC"
+  },
+  {
+    "booking_id": "BK-202304-00134",
+    "flight_date": "2023-04-17",
+    "origin_icao": "SBBE",
+    "dest_icao": "SBCF",
+    "ticket_value_brl": 1293.56,
+    "accommodation_value_brl": 933.23,
+    "excursion_value_brl": 132.32,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "CONFINS",
+      "start": "2023-04-17",
+      "end": "2023-04-21"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2023,
+    "month": 4,
+    "rota": "SBBE→SBCF"
+  },
+  {
+    "booking_id": "BK-202209-00135",
+    "flight_date": "2022-09-23",
+    "origin_icao": "SBUR",
+    "dest_icao": "SBGR",
+    "ticket_value_brl": 968.92,
+    "accommodation_value_brl": 413.97,
+    "excursion_value_brl": 48.26,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "GUARULHOS",
+      "start": "2022-09-23",
+      "end": "2022-09-28"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": true
+    },
+    "year": 2022,
+    "month": 9,
+    "rota": "SBUR→SBGR"
+  },
+  {
+    "booking_id": "BK-202009-00136",
+    "flight_date": "2020-09-07",
+    "origin_icao": "SBCY",
+    "dest_icao": "SBAT",
+    "ticket_value_brl": 651.06,
+    "accommodation_value_brl": 712.66,
+    "excursion_value_brl": 304.88,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "ALTA FLORESTA",
+      "start": "2020-09-07",
+      "end": "2020-09-11"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2020,
+    "month": 9,
+    "rota": "SBCY→SBAT"
+  },
+  {
+    "booking_id": "BK-202503-00137",
+    "flight_date": "2025-03-06",
+    "origin_icao": "SBSV",
+    "dest_icao": "SBCT",
+    "ticket_value_brl": 854.41,
+    "accommodation_value_brl": 658.41,
+    "excursion_value_brl": 289.83,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "SÃO JOSÉ DOS PINHAIS",
+      "start": "2025-03-06",
+      "end": "2025-03-09"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 3,
+    "rota": "SBSV→SBCT"
+  },
+  {
+    "booking_id": "BK-201711-00138",
+    "flight_date": "2017-11-25",
+    "origin_icao": "SBPL",
+    "dest_icao": "SBPL",
+    "ticket_value_brl": 2459.07,
+    "accommodation_value_brl": 1024.26,
+    "excursion_value_brl": 118.5,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "PETROLINA",
+      "start": "2017-11-25",
+      "end": "2017-11-29"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2017,
+    "month": 11,
+    "rota": "SBPL→SBPL"
+  },
+  {
+    "booking_id": "BK-202101-00139",
+    "flight_date": "2021-01-12",
+    "origin_icao": "SBCF",
+    "dest_icao": "SBSL",
+    "ticket_value_brl": 1034.76,
+    "accommodation_value_brl": 893.42,
+    "excursion_value_brl": 50.63,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "SÃO LUÍS",
+      "start": "2021-01-12",
+      "end": "2021-01-15"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 1,
+    "rota": "SBCF→SBSL"
+  },
+  {
+    "booking_id": "BK-202103-00140",
+    "flight_date": "2021-03-02",
+    "origin_icao": "SBAU",
+    "dest_icao": "SBAU",
+    "ticket_value_brl": 1562.05,
+    "accommodation_value_brl": 882.29,
+    "excursion_value_brl": 50.51,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "ARAÇATUBA",
+      "start": "2021-03-02",
+      "end": "2021-03-04"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 3,
+    "rota": "SBAU→SBAU"
+  },
+  {
+    "booking_id": "BK-202409-00141",
+    "flight_date": "2024-09-28",
+    "origin_icao": "SBDB",
+    "dest_icao": "SBSP",
+    "ticket_value_brl": 615.43,
+    "accommodation_value_brl": 162.88,
+    "excursion_value_brl": 113.74,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "SÃO PAULO",
+      "start": "2024-09-28",
+      "end": "2024-10-03"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2024,
+    "month": 9,
+    "rota": "SBDB→SBSP"
+  },
+  {
+    "booking_id": "BK-201610-00142",
+    "flight_date": "2016-10-16",
+    "origin_icao": "SBSP",
+    "dest_icao": "SBSR",
+    "ticket_value_brl": 1115.48,
+    "accommodation_value_brl": 1163.77,
+    "excursion_value_brl": 100.99,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "SÃO JOSÉ DO RIO PRETO",
+      "start": "2016-10-16",
+      "end": "2016-10-21"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2016,
+    "month": 10,
+    "rota": "SBSP→SBSR"
+  },
+  {
+    "booking_id": "BK-202212-00143",
+    "flight_date": "2022-12-28",
+    "origin_icao": "SBGR",
+    "dest_icao": "SBMO",
+    "ticket_value_brl": 639.58,
+    "accommodation_value_brl": 218.61,
+    "excursion_value_brl": 196.7,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "RIO LARGO",
+      "start": "2022-12-28",
+      "end": "2023-01-02"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2022,
+    "month": 12,
+    "rota": "SBGR→SBMO"
+  },
+  {
+    "booking_id": "BK-201709-00144",
+    "flight_date": "2017-09-19",
+    "origin_icao": "SBBR",
+    "dest_icao": "SBSP",
+    "ticket_value_brl": 718.63,
+    "accommodation_value_brl": 1001.7,
+    "excursion_value_brl": 379.65,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "SÃO PAULO",
+      "start": "2017-09-19",
+      "end": "2017-09-21"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2017,
+    "month": 9,
+    "rota": "SBBR→SBSP"
+  },
+  {
+    "booking_id": "BK-202008-00145",
+    "flight_date": "2020-08-03",
+    "origin_icao": "SBKP",
+    "dest_icao": "SBGR",
+    "ticket_value_brl": 648.75,
+    "accommodation_value_brl": 952.67,
+    "excursion_value_brl": 242.53,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "GUARULHOS",
+      "start": "2020-08-03",
+      "end": "2020-08-06"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2020,
+    "month": 8,
+    "rota": "SBKP→SBGR"
+  },
+  {
+    "booking_id": "BK-202408-00146",
+    "flight_date": "2024-08-26",
+    "origin_icao": "SBMO",
+    "dest_icao": "SBSP",
+    "ticket_value_brl": 2028.96,
+    "accommodation_value_brl": 549.4,
+    "excursion_value_brl": 363.4,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "SÃO PAULO",
+      "start": "2024-08-26",
+      "end": "2024-08-29"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2024,
+    "month": 8,
+    "rota": "SBMO→SBSP"
+  },
+  {
+    "booking_id": "BK-202502-00147",
+    "flight_date": "2025-02-10",
+    "origin_icao": "SBBR",
+    "dest_icao": "SBPA",
+    "ticket_value_brl": 1041.3,
+    "accommodation_value_brl": 802.08,
+    "excursion_value_brl": 243.85,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "PORTO ALEGRE",
+      "start": "2025-02-10",
+      "end": "2025-02-15"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 2,
+    "rota": "SBBR→SBPA"
+  },
+  {
+    "booking_id": "BK-202005-00148",
+    "flight_date": "2020-05-24",
+    "origin_icao": "SBGR",
+    "dest_icao": "SBSG",
+    "ticket_value_brl": 2389.94,
+    "accommodation_value_brl": 368.18,
+    "excursion_value_brl": 84.41,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "SÃO GONÇALO DO AMARANTE",
+      "start": "2020-05-24",
+      "end": "2020-05-26"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": true
+    },
+    "year": 2020,
+    "month": 5,
+    "rota": "SBGR→SBSG"
+  },
+  {
+    "booking_id": "BK-202501-00149",
+    "flight_date": "2025-01-22",
+    "origin_icao": "SBPV",
+    "dest_icao": "SBJI",
+    "ticket_value_brl": 729.82,
+    "accommodation_value_brl": 332.5,
+    "excursion_value_brl": 30.03,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "JI-PARANÁ",
+      "start": "2025-01-22",
+      "end": "2025-01-24"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 1,
+    "rota": "SBPV→SBJI"
+  },
+  {
+    "booking_id": "BK-202302-00150",
+    "flight_date": "2023-02-01",
+    "origin_icao": "SBAR",
+    "dest_icao": "SBBR",
+    "ticket_value_brl": 1346.06,
+    "accommodation_value_brl": 773.5,
+    "excursion_value_brl": 116.5,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "BRASÍLIA",
+      "start": "2023-02-01",
+      "end": "2023-02-06"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2023,
+    "month": 2,
+    "rota": "SBAR→SBBR"
+  },
+  {
+    "booking_id": "BK-202105-00151",
+    "flight_date": "2021-05-08",
+    "origin_icao": "SBVT",
+    "dest_icao": "SBSV",
+    "ticket_value_brl": 1884.61,
+    "accommodation_value_brl": 888.14,
+    "excursion_value_brl": 181.61,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "SALVADOR",
+      "start": "2021-05-08",
+      "end": "2021-05-12"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 5,
+    "rota": "SBVT→SBSV"
+  },
+  {
+    "booking_id": "BK-202109-00152",
+    "flight_date": "2021-09-22",
+    "origin_icao": "SBVT",
+    "dest_icao": "SBRJ",
+    "ticket_value_brl": 2340.21,
+    "accommodation_value_brl": 977.22,
+    "excursion_value_brl": 250.02,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "RIO DE JANEIRO",
+      "start": "2021-09-22",
+      "end": "2021-09-25"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 9,
+    "rota": "SBVT→SBRJ"
+  },
+  {
+    "booking_id": "BK-201801-00153",
+    "flight_date": "2018-01-22",
+    "origin_icao": "SBPJ",
+    "dest_icao": "SBSP",
+    "ticket_value_brl": 1292.79,
+    "accommodation_value_brl": 721.79,
+    "excursion_value_brl": 259.05,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "SÃO PAULO",
+      "start": "2018-01-22",
+      "end": "2018-01-25"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2018,
+    "month": 1,
+    "rota": "SBPJ→SBSP"
+  },
+  {
+    "booking_id": "BK-202005-00154",
+    "flight_date": "2020-05-09",
+    "origin_icao": "SBAU",
+    "dest_icao": "SBKP",
+    "ticket_value_brl": 549.96,
+    "accommodation_value_brl": 324.22,
+    "excursion_value_brl": 123.04,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "CAMPINAS",
+      "start": "2020-05-09",
+      "end": "2020-05-12"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2020,
+    "month": 5,
+    "rota": "SBAU→SBKP"
+  },
+  {
+    "booking_id": "BK-202110-00155",
+    "flight_date": "2021-10-24",
+    "origin_icao": "SBSV",
+    "dest_icao": "SBGL",
+    "ticket_value_brl": 1322.22,
+    "accommodation_value_brl": 642.13,
+    "excursion_value_brl": 121.64,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "RIO DE JANEIRO",
+      "start": "2021-10-24",
+      "end": "2021-10-28"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": true
+    },
+    "year": 2021,
+    "month": 10,
+    "rota": "SBSV→SBGL"
+  },
+  {
+    "booking_id": "BK-202105-00156",
+    "flight_date": "2021-05-13",
+    "origin_icao": "SBSV",
+    "dest_icao": "SBVC",
+    "ticket_value_brl": 1450.99,
+    "accommodation_value_brl": 668.48,
+    "excursion_value_brl": 32.18,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "VITÓRIA DA CONQUISTA",
+      "start": "2021-05-13",
+      "end": "2021-05-17"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 5,
+    "rota": "SBSV→SBVC"
+  },
+  {
+    "booking_id": "BK-201812-00157",
+    "flight_date": "2018-12-02",
+    "origin_icao": "SBGO",
+    "dest_icao": "SBPJ",
+    "ticket_value_brl": 1942.52,
+    "accommodation_value_brl": 783.9,
+    "excursion_value_brl": 10.35,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "PALMAS",
+      "start": "2018-12-02",
+      "end": "2018-12-07"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": true
+    },
+    "year": 2018,
+    "month": 12,
+    "rota": "SBGO→SBPJ"
+  },
+  {
+    "booking_id": "BK-202010-00158",
+    "flight_date": "2020-10-08",
+    "origin_icao": "SBCT",
+    "dest_icao": "SBCG",
+    "ticket_value_brl": 2499.1,
+    "accommodation_value_brl": 855.9,
+    "excursion_value_brl": 107.8,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "CAMPO GRANDE",
+      "start": "2020-10-08",
+      "end": "2020-10-10"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2020,
+    "month": 10,
+    "rota": "SBCT→SBCG"
+  },
+  {
+    "booking_id": "BK-202108-00159",
+    "flight_date": "2021-08-02",
+    "origin_icao": "SBSP",
+    "dest_icao": "SBPA",
+    "ticket_value_brl": 1388.05,
+    "accommodation_value_brl": 834.08,
+    "excursion_value_brl": 366.43,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "PORTO ALEGRE",
+      "start": "2021-08-02",
+      "end": "2021-08-05"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": true
+    },
+    "year": 2021,
+    "month": 8,
+    "rota": "SBSP→SBPA"
+  },
+  {
+    "booking_id": "BK-202412-00160",
+    "flight_date": "2024-12-06",
+    "origin_icao": "SBPS",
+    "dest_icao": "SBCY",
+    "ticket_value_brl": 1733.05,
+    "accommodation_value_brl": 666.31,
+    "excursion_value_brl": 36.5,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "VÁRZEA GRANDE",
+      "start": "2024-12-06",
+      "end": "2024-12-11"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2024,
+    "month": 12,
+    "rota": "SBPS→SBCY"
+  },
+  {
+    "booking_id": "BK-202203-00161",
+    "flight_date": "2022-03-12",
+    "origin_icao": "SBRF",
+    "dest_icao": "SBSG",
+    "ticket_value_brl": 1099.95,
+    "accommodation_value_brl": 853.64,
+    "excursion_value_brl": 343.09,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "SÃO GONÇALO DO AMARANTE",
+      "start": "2022-03-12",
+      "end": "2022-03-17"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2022,
+    "month": 3,
+    "rota": "SBRF→SBSG"
+  },
+  {
+    "booking_id": "BK-202112-00162",
+    "flight_date": "2021-12-11",
+    "origin_icao": "SBRD",
+    "dest_icao": "SBMG",
+    "ticket_value_brl": 1856.71,
+    "accommodation_value_brl": 452.63,
+    "excursion_value_brl": 378.08,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "MARINGÁ",
+      "start": "2021-12-11",
+      "end": "2021-12-16"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 12,
+    "rota": "SBRD→SBMG"
+  },
+  {
+    "booking_id": "BK-202411-00163",
+    "flight_date": "2024-11-27",
+    "origin_icao": "SBBR",
+    "dest_icao": "SBJU",
+    "ticket_value_brl": 1355.13,
+    "accommodation_value_brl": 480.24,
+    "excursion_value_brl": 129.31,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "JUAZEIRO DO NORTE",
+      "start": "2024-11-27",
+      "end": "2024-11-29"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2024,
+    "month": 11,
+    "rota": "SBBR→SBJU"
+  },
+  {
+    "booking_id": "BK-202309-00164",
+    "flight_date": "2023-09-25",
+    "origin_icao": "SBCF",
+    "dest_icao": "SBSV",
+    "ticket_value_brl": 2216.31,
+    "accommodation_value_brl": 1016.17,
+    "excursion_value_brl": 0.46,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "SALVADOR",
+      "start": "2023-09-25",
+      "end": "2023-09-30"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2023,
+    "month": 9,
+    "rota": "SBCF→SBSV"
+  },
+  {
+    "booking_id": "BK-202101-00165",
+    "flight_date": "2021-01-28",
+    "origin_icao": "SBJV",
+    "dest_icao": "SBSR",
+    "ticket_value_brl": 1267.82,
+    "accommodation_value_brl": 346.96,
+    "excursion_value_brl": 144.71,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "SÃO JOSÉ DO RIO PRETO",
+      "start": "2021-01-28",
+      "end": "2021-02-02"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 1,
+    "rota": "SBJV→SBSR"
+  },
+  {
+    "booking_id": "BK-201602-00166",
+    "flight_date": "2016-02-25",
+    "origin_icao": "SBGR",
+    "dest_icao": "SBCT",
+    "ticket_value_brl": 1713.36,
+    "accommodation_value_brl": 947.99,
+    "excursion_value_brl": 81.42,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "SÃO JOSÉ DOS PINHAIS",
+      "start": "2016-02-25",
+      "end": "2016-03-01"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": true
+    },
+    "year": 2016,
+    "month": 2,
+    "rota": "SBGR→SBCT"
+  },
+  {
+    "booking_id": "BK-202501-00167",
+    "flight_date": "2025-01-18",
+    "origin_icao": "SBFN",
+    "dest_icao": "SBFN",
+    "ticket_value_brl": 2348.11,
+    "accommodation_value_brl": 610.02,
+    "excursion_value_brl": 279.3,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "FERNANDO DE NORONHA",
+      "start": "2025-01-18",
+      "end": "2025-01-21"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 1,
+    "rota": "SBFN→SBFN"
+  },
+  {
+    "booking_id": "BK-201901-00168",
+    "flight_date": "2019-01-04",
+    "origin_icao": "SBTB",
+    "dest_icao": "SBEG",
+    "ticket_value_brl": 2443.61,
+    "accommodation_value_brl": 789.32,
+    "excursion_value_brl": 95.72,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "MANAUS",
+      "start": "2019-01-04",
+      "end": "2019-01-06"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": true
+    },
+    "year": 2019,
+    "month": 1,
+    "rota": "SBTB→SBEG"
+  },
+  {
+    "booking_id": "BK-202102-00169",
+    "flight_date": "2021-02-06",
+    "origin_icao": "SBFZ",
+    "dest_icao": "SBSL",
+    "ticket_value_brl": 1556.76,
+    "accommodation_value_brl": 729.86,
+    "excursion_value_brl": 37.28,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "SÃO LUÍS",
+      "start": "2021-02-06",
+      "end": "2021-02-10"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 2,
+    "rota": "SBFZ→SBSL"
+  },
+  {
+    "booking_id": "BK-201606-00170",
+    "flight_date": "2016-06-27",
+    "origin_icao": "SBBE",
+    "dest_icao": "SBTE",
+    "ticket_value_brl": 1369.04,
+    "accommodation_value_brl": 273.34,
+    "excursion_value_brl": 332.86,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "TERESINA",
+      "start": "2016-06-27",
+      "end": "2016-06-29"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2016,
+    "month": 6,
+    "rota": "SBBE→SBTE"
+  },
+  {
+    "booking_id": "BK-201807-00171",
+    "flight_date": "2018-07-16",
+    "origin_icao": "SBSP",
+    "dest_icao": "SBNF",
+    "ticket_value_brl": 1468.63,
+    "accommodation_value_brl": 437.1,
+    "excursion_value_brl": 333.89,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "NAVEGANTES",
+      "start": "2018-07-16",
+      "end": "2018-07-20"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2018,
+    "month": 7,
+    "rota": "SBSP→SBNF"
+  },
+  {
+    "booking_id": "BK-201803-00172",
+    "flight_date": "2018-03-16",
+    "origin_icao": "SBPJ",
+    "dest_icao": "SBSP",
+    "ticket_value_brl": 1359.25,
+    "accommodation_value_brl": 301.87,
+    "excursion_value_brl": 76.24,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "SÃO PAULO",
+      "start": "2018-03-16",
+      "end": "2018-03-19"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2018,
+    "month": 3,
+    "rota": "SBPJ→SBSP"
+  },
+  {
+    "booking_id": "BK-202507-00173",
+    "flight_date": "2025-07-20",
+    "origin_icao": "SBJP",
+    "dest_icao": "SBUL",
+    "ticket_value_brl": 2214.46,
+    "accommodation_value_brl": 440.06,
+    "excursion_value_brl": 316.0,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "UBERLÂNDIA",
+      "start": "2025-07-20",
+      "end": "2025-07-23"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 7,
+    "rota": "SBJP→SBUL"
+  },
+  {
+    "booking_id": "BK-202508-00174",
+    "flight_date": "2025-08-14",
+    "origin_icao": "SBFI",
+    "dest_icao": "SBCF",
+    "ticket_value_brl": 2361.92,
+    "accommodation_value_brl": 683.12,
+    "excursion_value_brl": 328.22,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "CONFINS",
+      "start": "2025-08-14",
+      "end": "2025-08-18"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 8,
+    "rota": "SBFI→SBCF"
+  },
+  {
+    "booking_id": "BK-201702-00175",
+    "flight_date": "2017-02-10",
+    "origin_icao": "SBCF",
+    "dest_icao": "SBSG",
+    "ticket_value_brl": 2158.7,
+    "accommodation_value_brl": 758.92,
+    "excursion_value_brl": 263.98,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "SÃO GONÇALO DO AMARANTE",
+      "start": "2017-02-10",
+      "end": "2017-02-14"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2017,
+    "month": 2,
+    "rota": "SBCF→SBSG"
+  },
+  {
+    "booking_id": "BK-202504-00176",
+    "flight_date": "2025-04-28",
+    "origin_icao": "SBBR",
+    "dest_icao": "SBSP",
+    "ticket_value_brl": 1337.75,
+    "accommodation_value_brl": 658.56,
+    "excursion_value_brl": 132.98,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "SÃO PAULO",
+      "start": "2025-04-28",
+      "end": "2025-05-01"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 4,
+    "rota": "SBBR→SBSP"
+  },
+  {
+    "booking_id": "BK-202209-00177",
+    "flight_date": "2022-09-25",
+    "origin_icao": "SBCG",
+    "dest_icao": "SBGO",
+    "ticket_value_brl": 1356.22,
+    "accommodation_value_brl": 487.87,
+    "excursion_value_brl": 75.46,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "GOIÂNIA",
+      "start": "2022-09-25",
+      "end": "2022-09-30"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2022,
+    "month": 9,
+    "rota": "SBCG→SBGO"
+  },
+  {
+    "booking_id": "BK-202102-00178",
+    "flight_date": "2021-02-23",
+    "origin_icao": "SBCF",
+    "dest_icao": "SBSV",
+    "ticket_value_brl": 1600.78,
+    "accommodation_value_brl": 395.24,
+    "excursion_value_brl": 310.22,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "SALVADOR",
+      "start": "2021-02-23",
+      "end": "2021-02-26"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 2,
+    "rota": "SBCF→SBSV"
+  },
+  {
+    "booking_id": "BK-202212-00179",
+    "flight_date": "2022-12-02",
+    "origin_icao": "SBKP",
+    "dest_icao": "SBSV",
+    "ticket_value_brl": 1963.88,
+    "accommodation_value_brl": 890.49,
+    "excursion_value_brl": 324.56,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "SALVADOR",
+      "start": "2022-12-02",
+      "end": "2022-12-06"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2022,
+    "month": 12,
+    "rota": "SBKP→SBSV"
+  },
+  {
+    "booking_id": "BK-202207-00180",
+    "flight_date": "2022-07-13",
+    "origin_icao": "SBBE",
+    "dest_icao": "SBGR",
+    "ticket_value_brl": 1440.19,
+    "accommodation_value_brl": 188.87,
+    "excursion_value_brl": 200.92,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "GUARULHOS",
+      "start": "2022-07-13",
+      "end": "2022-07-16"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2022,
+    "month": 7,
+    "rota": "SBBE→SBGR"
+  },
+  {
+    "booking_id": "BK-201909-00181",
+    "flight_date": "2019-09-19",
+    "origin_icao": "SBSP",
+    "dest_icao": "SBGL",
+    "ticket_value_brl": 2226.37,
+    "accommodation_value_brl": 1067.9,
+    "excursion_value_brl": 176.12,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "RIO DE JANEIRO",
+      "start": "2019-09-19",
+      "end": "2019-09-23"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2019,
+    "month": 9,
+    "rota": "SBSP→SBGL"
+  },
+  {
+    "booking_id": "BK-201812-00182",
+    "flight_date": "2018-12-17",
+    "origin_icao": "SBKP",
+    "dest_icao": "SBSJ",
+    "ticket_value_brl": 432.23,
+    "accommodation_value_brl": 301.36,
+    "excursion_value_brl": 348.37,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "SÃO JOSÉ DOS CAMPOS",
+      "start": "2018-12-17",
+      "end": "2018-12-22"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2018,
+    "month": 12,
+    "rota": "SBKP→SBSJ"
+  },
+  {
+    "booking_id": "BK-202202-00183",
+    "flight_date": "2022-02-05",
+    "origin_icao": "SBKP",
+    "dest_icao": "SBJP",
+    "ticket_value_brl": 1385.93,
+    "accommodation_value_brl": 1167.66,
+    "excursion_value_brl": 135.42,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "SANTA RITA",
+      "start": "2022-02-05",
+      "end": "2022-02-07"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2022,
+    "month": 2,
+    "rota": "SBKP→SBJP"
+  },
+  {
+    "booking_id": "BK-202101-00184",
+    "flight_date": "2021-01-23",
+    "origin_icao": "SBCF",
+    "dest_icao": "SBKP",
+    "ticket_value_brl": 1764.66,
+    "accommodation_value_brl": 1044.35,
+    "excursion_value_brl": 340.94,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "CAMPINAS",
+      "start": "2021-01-23",
+      "end": "2021-01-28"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 1,
+    "rota": "SBCF→SBKP"
+  },
+  {
+    "booking_id": "BK-202010-00185",
+    "flight_date": "2020-10-28",
+    "origin_icao": "SBSP",
+    "dest_icao": "SBGO",
+    "ticket_value_brl": 2403.69,
+    "accommodation_value_brl": 808.14,
+    "excursion_value_brl": 354.98,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "GOIÂNIA",
+      "start": "2020-10-28",
+      "end": "2020-11-02"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2020,
+    "month": 10,
+    "rota": "SBSP→SBGO"
+  },
+  {
+    "booking_id": "BK-202112-00186",
+    "flight_date": "2021-12-16",
+    "origin_icao": "SBCF",
+    "dest_icao": "SBBR",
+    "ticket_value_brl": 1696.66,
+    "accommodation_value_brl": 396.51,
+    "excursion_value_brl": 273.76,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "BRASÍLIA",
+      "start": "2021-12-16",
+      "end": "2021-12-18"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2021,
+    "month": 12,
+    "rota": "SBCF→SBBR"
+  },
+  {
+    "booking_id": "BK-202312-00187",
+    "flight_date": "2023-12-10",
+    "origin_icao": "SBKP",
+    "dest_icao": "SBRJ",
+    "ticket_value_brl": 1968.21,
+    "accommodation_value_brl": 605.67,
+    "excursion_value_brl": 39.38,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "RIO DE JANEIRO",
+      "start": "2023-12-10",
+      "end": "2023-12-13"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2023,
+    "month": 12,
+    "rota": "SBKP→SBRJ"
+  },
+  {
+    "booking_id": "BK-202504-00188",
+    "flight_date": "2025-04-21",
+    "origin_icao": "SBFI",
+    "dest_icao": "SBUL",
+    "ticket_value_brl": 1331.72,
+    "accommodation_value_brl": 878.7,
+    "excursion_value_brl": 361.37,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "UBERLÂNDIA",
+      "start": "2025-04-21",
+      "end": "2025-04-23"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 4,
+    "rota": "SBFI→SBUL"
+  },
+  {
+    "booking_id": "BK-201903-00189",
+    "flight_date": "2019-03-02",
+    "origin_icao": "SBCX",
+    "dest_icao": "SBKP",
+    "ticket_value_brl": 2071.9,
+    "accommodation_value_brl": 458.04,
+    "excursion_value_brl": 149.94,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "CAMPINAS",
+      "start": "2019-03-02",
+      "end": "2019-03-06"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2019,
+    "month": 3,
+    "rota": "SBCX→SBKP"
+  },
+  {
+    "booking_id": "BK-202311-00190",
+    "flight_date": "2023-11-05",
+    "origin_icao": "SBKP",
+    "dest_icao": "SBGR",
+    "ticket_value_brl": 1515.45,
+    "accommodation_value_brl": 744.22,
+    "excursion_value_brl": 317.01,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "GUARULHOS",
+      "start": "2023-11-05",
+      "end": "2023-11-08"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2023,
+    "month": 11,
+    "rota": "SBKP→SBGR"
+  },
+  {
+    "booking_id": "BK-201608-00191",
+    "flight_date": "2016-08-06",
+    "origin_icao": "SBFL",
+    "dest_icao": "SBSP",
+    "ticket_value_brl": 565.83,
+    "accommodation_value_brl": 1064.38,
+    "excursion_value_brl": 247.88,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "SÃO PAULO",
+      "start": "2016-08-06",
+      "end": "2016-08-09"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2016,
+    "month": 8,
+    "rota": "SBFL→SBSP"
+  },
+  {
+    "booking_id": "BK-201812-00192",
+    "flight_date": "2018-12-08",
+    "origin_icao": "SBJP",
+    "dest_icao": "SBBR",
+    "ticket_value_brl": 2316.94,
+    "accommodation_value_brl": 300.27,
+    "excursion_value_brl": 184.46,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "BRASÍLIA",
+      "start": "2018-12-08",
+      "end": "2018-12-13"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2018,
+    "month": 12,
+    "rota": "SBJP→SBBR"
+  },
+  {
+    "booking_id": "BK-201807-00193",
+    "flight_date": "2018-07-09",
+    "origin_icao": "SBGR",
+    "dest_icao": "SBCT",
+    "ticket_value_brl": 936.19,
+    "accommodation_value_brl": 159.87,
+    "excursion_value_brl": 321.85,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "SÃO JOSÉ DOS PINHAIS",
+      "start": "2018-07-09",
+      "end": "2018-07-14"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2018,
+    "month": 7,
+    "rota": "SBGR→SBCT"
+  },
+  {
+    "booking_id": "BK-202402-00194",
+    "flight_date": "2024-02-10",
+    "origin_icao": "SBML",
+    "dest_icao": "SBKP",
+    "ticket_value_brl": 555.11,
+    "accommodation_value_brl": 1142.5,
+    "excursion_value_brl": 395.06,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "CAMPINAS",
+      "start": "2024-02-10",
+      "end": "2024-02-13"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2024,
+    "month": 2,
+    "rota": "SBML→SBKP"
+  },
+  {
+    "booking_id": "BK-202509-00195",
+    "flight_date": "2025-09-10",
+    "origin_icao": "SBMA",
+    "dest_icao": "SBCF",
+    "ticket_value_brl": 1849.66,
+    "accommodation_value_brl": 629.68,
+    "excursion_value_brl": 120.85,
+    "passenger": {
+      "name": "Ana Silva",
+      "document": "12345678901"
+    },
+    "stay": {
+      "city": "CONFINS",
+      "start": "2025-09-10",
+      "end": "2025-09-15"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2025,
+    "month": 9,
+    "rota": "SBMA→SBCF"
+  },
+  {
+    "booking_id": "BK-202210-00196",
+    "flight_date": "2022-10-13",
+    "origin_icao": "SBGR",
+    "dest_icao": "SBCX",
+    "ticket_value_brl": 623.97,
+    "accommodation_value_brl": 550.43,
+    "excursion_value_brl": 143.58,
+    "passenger": {
+      "name": "Bruno Costa",
+      "document": "23456789012"
+    },
+    "stay": {
+      "city": "CAXIAS DO SUL",
+      "start": "2022-10-13",
+      "end": "2022-10-18"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2022,
+    "month": 10,
+    "rota": "SBGR→SBCX"
+  },
+  {
+    "booking_id": "BK-202402-00197",
+    "flight_date": "2024-02-10",
+    "origin_icao": "SBCY",
+    "dest_icao": "SBCT",
+    "ticket_value_brl": 446.07,
+    "accommodation_value_brl": 1021.54,
+    "excursion_value_brl": 158.32,
+    "passenger": {
+      "name": "Carla Mendes",
+      "document": "34567890123"
+    },
+    "stay": {
+      "city": "SÃO JOSÉ DOS PINHAIS",
+      "start": "2024-02-10",
+      "end": "2024-02-14"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2024,
+    "month": 2,
+    "rota": "SBCY→SBCT"
+  },
+  {
+    "booking_id": "BK-201703-00198",
+    "flight_date": "2017-03-01",
+    "origin_icao": "SBBR",
+    "dest_icao": "SBPS",
+    "ticket_value_brl": 2312.3,
+    "accommodation_value_brl": 932.43,
+    "excursion_value_brl": 333.14,
+    "passenger": {
+      "name": "Diego Alves",
+      "document": "45678901234"
+    },
+    "stay": {
+      "city": "PORTO SEGURO",
+      "start": "2017-03-01",
+      "end": "2017-03-03"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2017,
+    "month": 3,
+    "rota": "SBBR→SBPS"
+  },
+  {
+    "booking_id": "BK-201710-00199",
+    "flight_date": "2017-10-10",
+    "origin_icao": "SBIL",
+    "dest_icao": "SBSP",
+    "ticket_value_brl": 1674.84,
+    "accommodation_value_brl": 519.94,
+    "excursion_value_brl": 254.65,
+    "passenger": {
+      "name": "Elena Rocha",
+      "document": "56789012345"
+    },
+    "stay": {
+      "city": "SÃO PAULO",
+      "start": "2017-10-10",
+      "end": "2017-10-13"
+    },
+    "outcome": {
+      "cancelled": false,
+      "rain_trigger_10mm": false
+    },
+    "year": 2017,
+    "month": 10,
+    "rota": "SBIL→SBSP"
+  }
+]

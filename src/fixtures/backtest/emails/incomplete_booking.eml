@@ -1,0 +1,23 @@
+Message-ID: eml-2026-0910-0099
+From: cliente@example.com
+Subject: Reserva incompleta
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1971284480256972211=="
+
+--===============1971284480256972211==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Comprovantes em anexo.
+
+--===============1971284480256972211==
+Content-Type: application/json
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="booking.json"
+MIME-Version: 1.0
+
+eyJtZXNzYWdlX2lkIjogImVtbC0yMDI2LTA5MTAtMDA5OSIsICJjbGllbnRlIjogeyJub21lIjog
+Ikpvw6NvIiwgImRvY3VtZW50byI6ICIxMTEifSwgInZhbG9yX3ZvbyI6IDkwMC4wLCAib3JpZ2Vt
+IjogIlNCR1IiLCAiZGF0YV9pbmljaW8iOiAiMjAyNi0xMC0wMSJ9
+
+--===============1971284480256972211==--

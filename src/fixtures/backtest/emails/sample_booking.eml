@@ -1,0 +1,28 @@
+Message-ID: eml-2026-0910-0041
+From: cliente@example.com
+Subject: Comprovantes da viagem
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============5114713495551146918=="
+
+--===============5114713495551146918==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Comprovantes em anexo.
+
+--===============5114713495551146918==
+Content-Type: application/json
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="booking.json"
+MIME-Version: 1.0
+
+eyJtZXNzYWdlX2lkIjogImVtbC0yMDI2LTA5MTAtMDA0MSIsICJjbGllbnRlIjogeyJub21lIjog
+IkFuYSBTb3V6YSIsICJkb2N1bWVudG8iOiAiMTIzLjQ1Ni43ODktMDkiLCAiY29uc2VudGltZW50
+b190ZXJtb3MiOiB0cnVlLCAiY29uc2VudGltZW50b19wcml2YWNpZGFkZSI6IHRydWV9LCAidmFs
+b3Jfdm9vIjogMTUwMC4wLCAiaG9zcGVkYWdlbSI6IDgwMC4wLCAib3JpZ2VtIjogIlNCR1IiLCAi
+ZGVzdGlubyI6ICJTQkZJIiwgImRhdGFfaW5pY2lvIjogIjIwMjYtMDktMTAiLCAiZGF0YV9maW0i
+OiAiMjAyNi0wOS0xNSIsICJob3RlbCI6IHsiY2lkYWRlIjogIkZveiBkbyBJZ3Vhw6d1IiwgImRp
+YXJpYXMiOiA1LCAiY2F0ZWdvcmlhIjogIjMgZXN0cmVsYXMiLCAiZGlhcmlhX2NvbnRyYXRhZGEi
+OiAxNjAuMH19
+
+--===============5114713495551146918==--

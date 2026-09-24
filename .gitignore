@@ -1,0 +1,46 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Environment
+.env
+!.env.example
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Node / dashboard build artifacts
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Downloaded/derived data (rebuilt by scripts, see PLAN Fase 0A)
+src/data/raw/
+src/data/work/
+src/data/cache_open_meteo/
+src/data/storage/
+
+# Large derived artifacts (not versioned; rebuilt by `python -m main data sync`)
+src/data/flights_history_full.parquet
+src/data/precipitation_history_full.parquet
+src/data/07_Exposicao_Rota_Mes.csv
+src/data/route_month_exposure.parquet
+
+# Legacy top-level data mirror (canonical is src/data)
+/data/
+
+# Temp Files
+MEMORY.md
+PLAN.md
+*.docx
