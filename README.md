@@ -7,12 +7,12 @@ Sistema de agentes para a cadeia de valor atuarial de um **seguro paramétrico d
 
 ## Princípios
 
-| Camada            | Função                                            | Restrição                              |
-| ----------------- | --------------------------------------------------- | ---------------------------------------- |
-| Inferência de IA | extrair, classificar, selecionar consultas, redigir | não calcula prêmio, não decide aceite |
-| Motor atuarial    | GLM, grafo/IDW, credibilidade, carregamentos        | só Nota Técnica aprovada               |
-| Motor de regras   | elegibilidade, limites, acumulação, impeditivos   | determinístico e versionado             |
-| Decisão humana   | exceções, baixa confiança, extrapolações       | registra alçada/motivo/override         |
+| Camada            | Função                                            |
+| ----------------- | --------------------------------------------------- | 
+| Inferência de IA | extrair, classificar, selecionar consultas, redigir |
+| Motor atuarial    | GLM, grafo/IDW, credibilidade, carregamentos        |
+| Motor de regras   | elegibilidade, limites, acumulação, impeditivos   |
+| Decisão humana   | valida exceções, baixa confiança, extrapolações, corfima aceites  |
 
 ## Fluxo
 
